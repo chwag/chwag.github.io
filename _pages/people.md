@@ -34,5 +34,22 @@ horizontal: false
   </div>
   {%- endif -%}
   {% endfor %}
+{%- else -%}
+  <!-- Generate cards for all people -->
+  {% if page.horizontal -%}
+  <div class="container">
+    <div class="row row-cols-2">
+    {%- for person in site.people -%}
+      {% include people_horizontal.html %}
+    {%- endfor %}
+    </div>
+  </div>
+  {%- else -%}
+  <div class="grid">
+    {%- for person in site.people -%}
+      {% include people.html %}
+    {%- endfor %}
+  </div>
+  {%- endif -%}
 {%- endif -%}
 </div>
