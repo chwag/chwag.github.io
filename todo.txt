@@ -1,2 +1,3 @@
 - Alumni
 - thumbnails for publications
+- Add photo on person page
