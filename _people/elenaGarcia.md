@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Elena Pascal Garcia
-description: Research Software Engineer
+description: PhD student
 img: 
 importance: 1
-category: Staff
+category: PhD students
 ---
 
 
