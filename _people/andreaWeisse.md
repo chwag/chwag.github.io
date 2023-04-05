@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Andrea Weisse
+title: Andrea Yeong Weiße
 description: Principal Investigator
 img: 
 importance: 1
