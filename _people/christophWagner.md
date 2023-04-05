@@ -13,7 +13,7 @@ Understanding and controlling the ability of a TXTL system to self-regeneration 
 
 Aside my PhD, I like to spend my time dancing traditional Scottish dances, writing science communication articles on my blog and sometimes running around in circles.
 
-{% include figure.html path="assets/img/christophWagner.png" title="Christoph Wagner" class="img-fluid rounded z-depth-1" width=300}
+{% include figure.html path="assets/img/christophWagner.png" title="Christoph Wagner" class="img-fluid rounded z-depth-1" width=300%}
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
