@@ -3,7 +3,7 @@ layout: page
 title: Christoph Wagner
 description: PhD student
 img: assets/img/christophWagner.png
-importance: 2
+importance: 1
 category: PhD students
 ---
 
