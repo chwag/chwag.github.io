@@ -1,2 +1,7 @@
 - Alumni
-- thumbnails for publications
+- Group photo
+
+Things for Andrea to do:
+- logo
+- About text
+- project descriptions and logos
