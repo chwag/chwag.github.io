@@ -2,7 +2,7 @@
 layout: page
 title: Sandy Nelson
 description: PhD student
-img: 
+img: assets/img/sandyNelson.png
 importance: 1
 category: PhD students
 ---
