@@ -2,7 +2,7 @@
 layout: page
 title: Sandy Nelson
 description: PhD student
-img: assets/img/sandyNelson.png
+img: assets/img/profiles/sandyNelson_cropped.png
 importance: 1
 category: PhD students
 ---
@@ -17,6 +17,6 @@ category: PhD students
         </p>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/sandyNelson.png" title="Sandy Nelson" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/profiles/sandyNelson_cropped.png" title="Sandy Nelson" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

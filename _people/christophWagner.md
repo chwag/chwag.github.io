@@ -2,7 +2,7 @@
 layout: page
 title: Christoph Wagner
 description: PhD student
-img: assets/img/christophWagner.png
+img: assets/img/profiles/christophWagner_cropped.png
 importance: 1
 category: PhD students
 ---
@@ -19,6 +19,6 @@ category: PhD students
         </p>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/christophWagner.png" title="Christoph Wagner" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/profiles/christophWagner_cropped.png" title="Christoph Wagner" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
