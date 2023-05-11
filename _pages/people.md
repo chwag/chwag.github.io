@@ -53,3 +53,16 @@ horizontal: false
   {%- endif -%}
 {%- endif -%}
 </div>
+
+--------
+
+## Alumni
+
+### Staff
+
+### Postdocs
+
+### PhD students
+
+### Honours and Masters
+MSc. Fiona Smith, BSc. Vincenzo Incutti, BSc. Ruibo Zhang 
