@@ -59,10 +59,11 @@ horizontal: false
 ## Alumni
 
 ### Staff
+MSc. Evangelos Nikolados
 
 ### Postdocs
 
 ### PhD students
 
 ### Honours and Masters
-MSc. Fiona Smith, BSc. Vincenzo Incutti, BSc. Ruibo Zhang 
+MSc. Fiona Smith, BSc. Vincenzo Incutti, BSc. Ruibo Zhang, BSc. Seungwon Ko

@@ -9,6 +9,7 @@ for infile in sys.argv[1:]:
     outfile = os.path.splitext(infile)[0] + "_cropped"
     if infile != outfile:
         try:
+            print(infile)
             im = Image.open(infile)
             fullX,fullY = im.size
             print(im.size)

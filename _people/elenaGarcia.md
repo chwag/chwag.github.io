@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elena Pascal Garcia
+title: Elena Pascual Garcia
 description: PhD student
 img: 
 importance: 1

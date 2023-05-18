@@ -2,7 +2,7 @@
 layout: page
 title: Andrea Yeong Weiße
 description: Principal Investigator
-img: 
+img: assets/img/profiles/andreaWeisse_cropped.png
 importance: 1
 category: PI
 ---
@@ -15,6 +15,6 @@ category: PI
         </p>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        
+        {% include figure.html path="assets/img/profiles/andreaWeisse_cropped.png" title="Andrea Weisse" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
