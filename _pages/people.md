@@ -66,4 +66,4 @@ MSc. Evangelos Nikolados
 ### PhD students
 
 ### Honours and Masters
-MSc. Fiona Smith, BSc. Vincenzo Incutti, BSc. Ruibo Zhang, BSc. Seungwon Ko
+BSc. Seungwon Ko, BSc. Ruibo Zhang, MSc. Fiona Smith, BSc. Vincenzo Incutti
