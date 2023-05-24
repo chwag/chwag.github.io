@@ -2,7 +2,7 @@
 layout: page
 title: Hollie Hindley
 description: PhD student
-img: assets/img/profiles/hollieHindley_copped.png
+img: assets/img/profiles/hollieHindley_cropped.png
 importance: 1
 category: PhD students
 ---
