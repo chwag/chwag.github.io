@@ -9,6 +9,8 @@ for pprKey in bib_data.entries:
     ppr = bib_data.entries[pprKey]
 
     fieldsDict = dict(ppr.fields)
+    if "abstract" in fieldsDict.keys():
+        fieldsDict.pop('abstract')
     if "keywords" in fieldsDict.keys():
         fieldsDict['preview'] = fieldsDict['keywords']
         fieldsDict.pop('keywords')
