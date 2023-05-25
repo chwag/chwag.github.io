@@ -1,0 +1,204 @@
+@article{veron_retention_2009,
+    title = "Retention of gene products in syncytial spermatids promotes non-{Mendelian} inheritance as revealed by the t complex responder",
+    volume = "23",
+    number = "23",
+    journal = "Genes \\& Development",
+    year = "2009",
+    pages = "2705--2710",
+    preview = "Publisher: Cold Spring Harbor Lab"
+}
+
+@article{weise_quantifying_2010,
+    title = "Quantifying uncertainty, variability and likelihood for ordinary differential equation models",
+    volume = "4",
+    number = "1",
+    journal = "BMC Systems Biology",
+    year = "2010",
+    pages = "1--10",
+    preview = "Publisher: BioMed Central"
+}
+
+@inproceedings{weise_adaptive_2006,
+    title = "Adaptive approach for modelling variability in pharmacokinetics",
+    isbn = "3-540-45767-4",
+    abstract = "We present an improved adaptive approach for studying systems of ODEs affected by parameter variability and state space uncertainty. Our approach is based on a reformulation of the ODE problem as a transport problem of a probability density describing the evolution of the ensemble of systems in time. The resulting multidimensional problem is solved by representing the probability density w.r.t. an adaptively chosen Galerkin ansatz space of Gaussian densities. Due to our improvements in adaptivity control, we substantially improved the overall performance of the original algorithm and moreover inherited to the numerical scheme the theoretical property that the number of Gaussian distributions remains constant for linear ODEs. We illustrate the approach in application to dynamical systems describing the pharmacokinetics of drugs and xenobiotics, where variability in physiological parameters is important to be considered.",
+    booktitle = "{CompLife}",
+    year = "2006",
+    pages = "194--204",
+    preview = "weisse2006.png"
+}
+
+@article{oyarzun_cumulative_2013,
+    title = "Cumulative signal transmission in nonlinear reaction-diffusion networks",
+    volume = "8",
+    number = "5",
+    journal = "PLOS One",
+    year = "2013",
+    pages = "e62834",
+    preview = "Publisher: Public Library of Science San Francisco, USA"
+}
+
+@article{weise_error-controlled_2011,
+    title = "Error-controlled global sensitivity analysis of ordinary differential equations",
+    volume = "230",
+    number = "17",
+    journal = "Journal of Computational Physics",
+    year = "2011",
+    pages = "6824--6842",
+    preview = "Publisher: Elsevier"
+}
+
+@article{karwacki-neisius_reduced_2013,
+    title = "Reduced {Oct4} expression directs a robust pluripotent state with distinct signaling activity and increased enhancer occupancy by {Oct4} and {Nanog}",
+    volume = "12",
+    number = "5",
+    journal = "Cell Stem Cell",
+    year = "2013",
+    pages = "531--545",
+    preview = "Publisher: Cell Press"
+}
+
+@article{perkins_chance_2012,
+    title = "Chance and memory",
+    journal = "Quantitative Biology: From Molecular to Cellular Systems",
+    year = "2012",
+    pages = "51--72",
+    preview = "Publisher: CRC Press"
+}
+
+@article{weise_signaling_2016,
+    title = "Signaling {Tug}-of-{War} {Delivers} the {Whole} {Message}",
+    volume = "3",
+    number = "5",
+    journal = "Cell Systems",
+    year = "2016",
+    pages = "414--416",
+    preview = "Publisher: Cell Press"
+}
+
+@article{terradot_survival_2018,
+    title = "Survival of the fattest: evolutionary trade-offs in cellular resource storage",
+    volume = "335",
+    journal = "Electronic Notes in Theoretical Computer Science",
+    year = "2018",
+    pages = "91--112",
+    preview = "Publisher: Elsevier"
+}
+
+@article{thomas_sources_2018,
+    title = "Sources, propagation and consequences of stochasticity in cellular growth",
+    volume = "9",
+    number = "1",
+    journal = "Nature Communications",
+    year = "2018",
+    pages = "4528",
+    preview = "Publisher: Nature Publishing Group UK London"
+}
+
+@article{nikolados_growth_2019,
+    title = "Growth defects and loss-of-function in synthetic gene circuits",
+    volume = "8",
+    number = "6",
+    journal = "ACS Synthetic Biology",
+    year = "2019",
+    pages = "1231--1240",
+    preview = "Publisher: American Chemical Society"
+}
+
+@article{otter_detecting_2020,
+    title = "Detecting carbapenemase-producing {Enterobacterales} ({CPE}): an evaluation of an enhanced {CPE} infection control and screening programme in acute care",
+    volume = "75",
+    number = "9",
+    journal = "Journal of Antimicrobial Chemotherapy",
+    year = "2020",
+    pages = "2670--2676",
+    preview = "Publisher: Oxford University Press"
+}
+
+@article{price_development_2021,
+    title = "Development and delivery of a real-time hospital-onset {COVID}-19 surveillance system using network analysis",
+    volume = "72",
+    number = "1",
+    journal = "Clinical Infectious Diseases",
+    year = "2021",
+    pages = "82--89",
+    preview = "Publisher: Oxford University Press US"
+}
+
+@article{nikolados_prediction_2021,
+    title = "Prediction of {Cellular} {Burden} with {Host}–{Circuit} {Models}",
+    journal = "Synthetic Gene Circuits: Methods and Protocols",
+    year = "2021",
+    pages = "267--291",
+    preview = "Publisher: Springer US"
+}
+
+@article{myall_network_2021,
+    title = "Network memory in the movement of hospital patients carrying antimicrobial-resistant bacteria",
+    volume = "6",
+    number = "1",
+    journal = "Applied Network Science",
+    year = "2021",
+    pages = "34",
+    preview = "Publisher: Springer International Publishing Cham"
+}
+
+@article{ming_informing_2021,
+    title = "Informing antimicrobial management in the context of {COVID}-19: understanding the longitudinal dynamics of {C}-reactive protein and procalcitonin",
+    volume = "21",
+    journal = "BMC Infectious Diseases",
+    year = "2021",
+    pages = "1--7",
+    preview = "Publisher: BioMed Central"
+}
+
+@article{boonyasiri_integrated_2021,
+    title = "Integrated patient network and genomic plasmid analysis reveal a regional, multi-species outbreak of carbapenemase-producing {Enterobacterales} carrying both bla {IMP} and mcr-9 genes",
+    journal = "medRxiv",
+    year = "2021",
+    pages = "2021--10",
+    preview = "Publisher: Cold Spring Harbor Laboratory Press"
+}
+
+@article{myall_improved_2022,
+    title = "Improved contact tracing using network analysis and spatial-temporal proximity",
+    volume = "116",
+    journal = "International Journal of Infectious Diseases",
+    year = "2022",
+    pages = "S20",
+    preview = "Publisher: Elsevier"
+}
+
+@article{myall_prediction_2022,
+    title = "Prediction of hospital-onset {COVID}-19 using networks of patient contact: an observational study",
+    volume = "116",
+    journal = "International Journal of Infectious Diseases",
+    year = "2022",
+    pages = "S109--S110",
+    preview = "Publisher: Elsevier"
+}
+
+@article{myall_characterising_2021,
+    title = "Characterising contact in disease outbreaks via a network model of spatial-temporal proximity",
+    journal = "medRxiv",
+    year = "2021",
+    pages = "2021--04",
+    preview = "Publisher: Cold Spring Harbor Laboratory Press"
+}
+
+@article{weise_mechanistic_2015,
+    title = "Mechanistic links between cellular trade-offs, gene expression, and growth",
+    volume = "112",
+    issn = "0027-8424, 1091-6490",
+    url = "https://pnas.org/doi/full/10.1073/pnas.1416533112",
+    doi = "10.1073/pnas.1416533112",
+    abstract = "Significance Cells have finite resources. Committing resources to one task therefore reduces the amount of resources available to others. These trade-offs are often overlooked but potentially modify all cellular processes. Building a mathematical cell model that respects such trade-offs and describes the mechanisms of protein synthesis and how cells extract resources from their environment, we quantitatively recover the typical behavior of an individual growing cell and of a population of cells. As trade-offs are experienced by all cells and because growth largely determines cellular fitness, a predictive understanding of how biochemical processes affect others and affect growth is important for diverse applications, such as the use of microbes for biotechnology, the inhibition of antibiotic resistance, and the growth of cancers. , Intracellular processes rarely work in isolation but continually interact with the rest of the cell. In microbes, for example, we now know that gene expression across the whole genome typically changes with growth rate. The mechanisms driving such global regulation, however, are not well understood. Here we consider three trade-offs that, because of limitations in levels of cellular energy, free ribosomes, and proteins, are faced by all living cells and we construct a mechanistic model that comprises these trade-offs. Our model couples gene expression with growth rate and growth rate with a growing population of cells. We show that the model recovers Monod’s law for the growth of microbes and two other empirical relationships connecting growth rate to the mass fraction of ribosomes. Further, we can explain growth-related effects in dosage compensation by paralogs and predict host–circuit interactions in synthetic biology. Simulating competitions between strains, we find that the regulation of metabolic pathways may have evolved not to match expression of enzymes to levels of extracellular substrates in changing environments but rather to balance a trade-off between exploiting one type of nutrient over another. Although coarse-grained, the trade-offs that the model embodies are fundamental, and, as such, our modeling framework has potentially wide application, including in both biotechnology and medicine.",
+    language = "en",
+    number = "9",
+    urldate = "2023-05-25",
+    journal = "Proceedings of the National Academy of Sciences",
+    month = "March",
+    year = "2015",
+    keywords = "weisse2015.png",
+    preview = "preview: weisse2015.png"
+}
