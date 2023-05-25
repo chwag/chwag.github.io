@@ -15,4 +15,4 @@ for pprKey in bib_data.entries:
     nuEntry = Entry(ppr.type, fields=fieldsDict)
     nuParser.data.add_entry(pprKey, nuEntry)
 
-nuParser.data.to_file('papers', bib_format='bibtex')
+nuParser.data.to_file('papers.bib', bib_format='bibtex')
