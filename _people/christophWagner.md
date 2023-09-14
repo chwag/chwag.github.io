@@ -5,7 +5,7 @@ description: PhD student
 img: assets/img/profiles/christophWagner_cropped.png
 importance: 1
 category: PhD students
-projects: cfps
+projects: [cfps]
 ---
 
 
