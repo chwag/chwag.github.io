@@ -23,7 +23,7 @@ Currently working on this:
     {% assign projects = person.projects %}
     {% for project in projects.split %}
         {% if "growth" == project %}
-            {{ name }}
+            name
         {% endif %}
     {% endfor %}
 {%- endfor %}
