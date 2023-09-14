@@ -60,6 +60,7 @@ horizontal: false
 
 ### Staff
 MSc. Evangelos Nikolados
+MSc. Allan Beveridge
 
 ### Postdocs
 
