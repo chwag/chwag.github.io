@@ -43,9 +43,6 @@ horizontal: false
   <div class="container">
     <div class="row row-cols-2">
     {%- for project in sorted_projects -%}
-      {% if project.projectbla %}
-        {% project.projectbla %}
-      {% endif %}
       {% include projects_horizontal.html %}
     {%- endfor %}
     </div>
