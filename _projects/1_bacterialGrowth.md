@@ -22,7 +22,7 @@ Currently working on this:
     {% assign name = person.title %}
     {% assign projects = person.projects %}
     {{ projects }}
-    {% if "growth" == projects %}
+    {% if "growth" in projects %}
         {{ name }}
     {% endif %}
 {%- endfor %}
