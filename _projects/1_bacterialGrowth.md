@@ -24,7 +24,7 @@ Currently working on this:
     {{ projects }}
     {% for project in projects.split %}
         {{ project }}
-        {% if "growth" != project %}
+        {% if "growth" != projects %}
             {{ name }}
         {% endif %}
     {% endfor %}
