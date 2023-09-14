@@ -20,8 +20,9 @@ Currently working on this:
 {%- assign people = site.people -%}
 {%- for person in people -%} 
     {% assign name = person.title %}
+    {% assign test = person.importance %}
     {% assign projects = person.projects %}
-    {% if "growth" in projects.split %}
+    {% if growth in projects.split %}
         {{ name }}
     {% endif %}
 {%- endfor %}
