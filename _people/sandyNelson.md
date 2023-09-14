@@ -5,6 +5,7 @@ description: PhD student
 img: assets/img/profiles/sandyNelson_cropped.png
 importance: 1
 category: PhD students
+projects: [inference]
 ---
 
 

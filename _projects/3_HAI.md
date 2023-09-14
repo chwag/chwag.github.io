@@ -5,7 +5,6 @@ description: Leveraging data to improve healthcare
 img: assets/img/1.jpg
 importance: 3
 category: work
-projectbla: test
 ---
 
 Health data science leverages data-driven approaches for critical healthcare challenges. Our primary focus is centred 
