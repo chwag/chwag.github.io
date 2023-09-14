@@ -43,7 +43,8 @@ horizontal: false
   <div class="container">
     <div class="row row-cols-2">
     {%- for project in sorted_projects -%}
-      {%- project.projectbla -%}
+      {%- assign testVariable = project.projectbla -%}
+      {{ testVariable }}
       {% include projects_horizontal.html %}
     {%- endfor %}
     </div>
