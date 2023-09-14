@@ -5,6 +5,7 @@ description: Investigating bacterial growth and how it is controlled
 img: assets/img/12.jpg
 importance: 1
 category: work
+projectbla: test
 ---
 
 Bacterial growth offers vital insights into life, evolution, and disease. The way bacteria grow is intricately linked 
