@@ -67,4 +67,4 @@ MSc. Allan Beveridge
 ### PhD students
 
 ### Honours and Masters
-BSc. Seungwon Ko, BSc. Ruibo Zhang, MSc. Fiona Smith, BSc. Vincenzo Incutti
+BSc. Emily Gaughan, BSc. Seungwon Ko, BSc. Ruibo Zhang, MSc. Fiona Smith, BSc. Vincenzo Incutti

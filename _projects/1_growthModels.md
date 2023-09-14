@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Multi-scale models of bacterial cells
-description: Investigating bacterial growth adaptation in complex environments
+description: Studying bacterial growth adaptation in complex environments
 img: assets/img/12.jpg
 importance: 1
 category: growth

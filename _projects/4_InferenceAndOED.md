@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Model inference and optimal experimental design
-description: Advancing DBTL to its logical next step
+description: Taking DBTL to its logical next step
 img:
 importance: 3
 category: sb

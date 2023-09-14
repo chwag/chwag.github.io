@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Emergence of antibiotic resistance
+title: Antibiotic resistance
 description: Investigating factors that affect drug efficacy
 img: assets/img/3.jpg
 importance: 2
