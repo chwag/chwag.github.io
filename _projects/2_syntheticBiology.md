@@ -5,6 +5,7 @@ description: Understanding and optimising synthetic biological systems
 img: assets/img/7.jpg
 importance: 3
 category: work
+projectbla: test
 ---
 
 Synthetic biology explores the design and construction of biological components, both for understanding life's 
