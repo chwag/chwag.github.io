@@ -18,8 +18,7 @@ environmental stimuli with the cell mechanisms.
 
 Currently working on this: 
 {%- assign people = site.people -%}
-{%- for person in people -%} 
-    {{ person }}
+{%- for person in people -%}
     {% assign name = person.title %}
     {% assign projects = person.projects %}
     {% for project in projects.split %}
