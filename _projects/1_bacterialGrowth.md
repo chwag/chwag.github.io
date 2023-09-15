@@ -24,7 +24,7 @@ Currently working on this:
     {{ projects }}
     {% for project in projects %}
         {{ project }}
-        {% if "growth" == projects %}
+        {% if "growth" == project %}
             {{ name }}
         {% endif %}
     {% endfor %}
