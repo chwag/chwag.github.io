@@ -25,6 +25,7 @@ Currently working on this:
     {% for project in projects %}
         {{ project }}
         {% if "growth" == project %}
+            Does this appear?
             {{ name }}
         {% endif %}
     {% endfor %}
