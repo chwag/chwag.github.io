@@ -24,6 +24,8 @@ Currently working on this:
     {{ projects }}
     {% for project in projects %}
         {{ project }}
+        Going through projects
+        "This is a string"
         {% if "growth" == project %}
             Does this appear?
             {{ name }}
