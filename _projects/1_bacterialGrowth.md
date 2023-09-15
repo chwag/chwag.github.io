@@ -21,13 +21,8 @@ Currently working on this:
 {%- for person in people -%}
     {% assign name = person.title %}
     {% assign projects = person.projects %}
-    {{ projects }}
     {% for project in projects %}
-        {{ project }}
-        Going through projects
-        "This is a string"
         {% if "growth" == project %}
-            Does this appear?
             {{ name }}
         {% endif %}
     {% endfor %}
