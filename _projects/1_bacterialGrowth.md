@@ -24,7 +24,7 @@ environmental stimuli with the cell mechanisms.
     {%- assign projects = person.projects -%}
     {%- for project in projects -%}
         {%- if "growth" == project -%} 
-            <a class="nav-link" style="display:inline white-space:nowrap" href="{{ person.url }}">{{ name }}</a> 
+            <a class="nav-link" style="display:inline" href="{{ person.url }}">{{ name|cut:" " }}</a> 
         {%- endif -%}
     {%- endfor -%}
 {%- endfor -%}
