@@ -17,19 +17,9 @@ rooted in core cellular mechanisms, which allows us to predict growth as it emer
 environmental stimuli with the cell mechanisms.
 
 <div>
-{% spaceless %}
 <span> Currently working on this: </span>
 {%- assign people = site.people -%}
-{%- for person in people -%}
-    {% assign name = person.title %}
-    {% assign projects = person.projects %}
-    {% for project in projects %}
-        {% if "growth" == project %}
-             <a class="nav-link" style="white-space: nowrap" href="{{ person.url }}">{{ name }}</a>
-        {% endif %}
-    {% endfor %}
-{%- endfor %}
-{% endspaceless %}
+{%- for person in people -%} {% assign name = person.title %} {% assign projects = person.projects %} {% for project in projects %} {% if "growth" == project %} <a class="nav-link" style="white-space: nowrap" href="{{ person.url }}">{{ name }}</a> {% endif %} {% endfor %} {%- endfor %}
 </div>
 
 --------
