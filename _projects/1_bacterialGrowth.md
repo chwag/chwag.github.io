@@ -17,7 +17,7 @@ rooted in core cellular mechanisms, which allows us to predict growth as it emer
 environmental stimuli with the cell mechanisms.
 
 <div>
-<p> Currently working on this: 
+<p> Currently working on this: </p>
 {%- assign people = site.people -%}
 {%- for person in people -%}
     {% assign name = person.title %}
@@ -28,7 +28,6 @@ environmental stimuli with the cell mechanisms.
         {% endif %}
     {% endfor %}
 {%- endfor %}
-</p>
 </div>
 
 --------
