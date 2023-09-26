@@ -16,18 +16,19 @@ We develop computational models to investigate bacterial growth adaptation in co
 rooted in core cellular mechanisms, which allows us to predict growth as it emerges from the dynamic interplay of 
 environmental stimuli with the cell mechanisms.
 
-Currently working on this: 
 <div>
+<p> Currently working on this: 
 {%- assign people = site.people -%}
 {%- for person in people -%}
     {% assign name = person.title %}
     {% assign projects = person.projects %}
     {% for project in projects %}
         {% if "growth" == project %}
-            <p> {{ name }} </p>
+             {{ name }} 
         {% endif %}
     {% endfor %}
 {%- endfor %}
+</p>
 </div>
 
 --------
