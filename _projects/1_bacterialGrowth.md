@@ -14,17 +14,17 @@ group focuses on two key areas:
 ### Multi-scale models of bacterial cells
 We develop computational models to investigate bacterial growth adaptation in complex environments. Our models are 
 rooted in core cellular mechanisms, which allows us to predict growth as it emerges from the dynamic interplay of 
-environmental stimuli with the cell mechanisms.
+environmental stimuli with cellular mechanisms.
 
 <div>
-<span> Currently working on this: </span>
+<span> Currently working on this are: </span>
 {%- assign people = site.people -%}
 {%- for person in people -%}
     {%- assign name = person.title -%}
     {%- assign projects = person.projects -%}
     {%- for project in projects -%}
         {%- if "growth" == project -%} 
-            <a class="nav-link" style="display:inline" href="{{ person.url }}">{{ name|cut:" " }}</a> 
+            <a style="display:inline" href="{{ person.url }}">{{ name }}</a> 
         {%- endif -%}
     {%- endfor -%}
 {%- endfor -%}
