@@ -16,3 +16,14 @@ Using network analysis, we investigate transmission dynamics of HAIs among hospi
 outbreak clusters, elucidate transmission routes, and derive insights to guide effective infection control strategies. 
 We focus on the transmission of multi-drug resistant bacteria, which complements our foundational research into factors 
 driving the emergence and spread of antibiotic resistance.
+
+<div>
+<span> Currently working on this are: </span>
+{%- for person in site.people -%}
+    {%- for project in person.projects -%}
+        {%- if "hai" == project -%}
+            <li class="tab"><a href="{{ person.url }}">{{ person.title }}</a></li>
+        {%- endif -%}
+    {%- endfor -%}
+{%- endfor -%}
+</div>
