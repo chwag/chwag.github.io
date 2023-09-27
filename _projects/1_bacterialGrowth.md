@@ -21,7 +21,7 @@ environmental stimuli with cellular mechanisms.
 {%- for person in site.people -%}
     {%- for project in person.projects -%}
         {%- if "growth" == project -%}
-            <li><a href="{{ person.url }}">{{ person.title }}</a></li>
+            <li class="tab"><a href="{{ person.url }}">{{ person.title }}</a></li>
         {%- endif -%}
     {%- endfor -%}
 {%- endfor -%}
