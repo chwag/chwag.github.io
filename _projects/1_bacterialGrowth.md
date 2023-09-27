@@ -19,15 +19,9 @@ environmental stimuli with cellular mechanisms.
 <div>
 <span> Currently working on this are: </span>
 {%- for person in site.people -%}
-    {%- assign name = person.title -%}
-    {%- assign projects = person.projects -%}
-    {%- for project in projects -%}
-        {%- if "growth" == project -%} 
-            {% if forloop.parentloop.last %}
-                <a style="display:inline" href="{{ person.url }}">{{ name }}</a> 
-            {% else %}
-                <a style="display:inline" href="{{ person.url }}">{{ name }}, </a> 
-            {% endif %}
+    {%- for project in person.projects -%}
+        {%- if "growth" == project -%}
+            <li><a href="{{ person.url }}">{{ person.title }}</a></li>
         {%- endif -%}
     {%- endfor -%}
 {%- endfor -%}
