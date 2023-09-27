@@ -17,7 +17,7 @@ rooted in core cellular mechanisms, which allows us to predict growth as it emer
 environmental stimuli with cellular mechanisms.
 
 <div>
-<span> Currently working on this are: </span> 
+<span> Currently working on this: </span> 
 {%- for person in site.people -%}
     {%- for project in person.projects -%}
         {%- if "growth" == project -%}
@@ -35,7 +35,7 @@ efficacy. Our goal is to derive insights that can enhance existing antibiotic th
 overuse of antibiotics.
 
 <div>
-<span> Currently working on this are: </span>
+<span> Currently working on this: </span>
 {%- for person in site.people -%}
     {%- for project in person.projects -%}
         {%- if "ar" == project -%}

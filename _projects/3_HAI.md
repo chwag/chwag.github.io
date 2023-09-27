@@ -18,7 +18,7 @@ We focus on the transmission of multi-drug resistant bacteria, which complements
 driving the emergence and spread of antibiotic resistance.
 
 <div>
-<span> Currently working on this are: </span>
+<span> Currently working on this: </span>
 {%- for person in site.people -%}
     {%- for project in person.projects -%}
         {%- if "hai" == project -%}

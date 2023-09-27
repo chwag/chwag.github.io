@@ -2,7 +2,7 @@
 layout: page
 title: people
 permalink: /people/
-description: Members of the Weisse group
+description: Who we are
 nav: true
 nav_order: 2
 display_categories: [Head, Postdocs, PhD students, Masters students, Honours students]
@@ -62,9 +62,9 @@ horizontal: false
 MSc. Evangelos Nikolados
 MSc. Allan Beveridge
 
-### Postdocs
+<!--% ### Postdocs
 
-### PhD students
+### PhD students-->
 
 ### Honours and Masters
 BSc. Emily Gaughan, BSc. Seungwon Ko, BSc. Ruibo Zhang, MSc. Fiona Smith, BSc. Vincenzo Incutti
