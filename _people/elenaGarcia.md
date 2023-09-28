@@ -2,7 +2,7 @@
 layout: page
 title: Elena Pascual Garcia
 description: PhD student
-img: 
+img: assets/img/profiles/elenaGarcia_cropped.png
 importance: 1
 category: PhD students
 projects: [growth,ar]
