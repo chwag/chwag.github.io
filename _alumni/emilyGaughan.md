@@ -5,6 +5,7 @@ description: Honours student
 img: 
 importance: 1
 category: Honours students
+degree: BSc.
 ---
 
 

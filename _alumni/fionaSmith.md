@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Ruibo Zhang
-description: Honours student
+title: Fiona Smith
+description: Masters student
 img: 
 importance: 1
-category: Honours
-degree: BSc.
+category: Master
+degree: MSc.
 ---
 
 

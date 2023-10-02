@@ -4,7 +4,7 @@ title: Rohan Gorantla
 description: PhD student
 img: 
 importance: 1
-category: PhD students
+category: PhD
 projects: []
 degree: MSc.
 ---

@@ -5,6 +5,7 @@ description: Research Software Engineer
 img: 
 importance: 1
 category: Staff
+degree: Dr.
 ---
 
 

@@ -4,7 +4,7 @@ title: Ashleigh Myall
 description: PhD student
 img: 
 importance: 1
-category: PhD students
+category: PhD
 projects: [hai]
 degree: MSc.
 ---

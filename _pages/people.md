@@ -61,19 +61,37 @@ horizontal: false
 ### Staff
 <div>
 {%- for person in site.alumni -%}
-  {{ person.title }}
   {%- if "Staff" == person.category -%}
     <li class="tab">{{ person.title }}, {{ person.degree }}</li>
   {%- endif -%}
 {%- endfor -%}
 </div>
 
-MSc. Evangelos Nikolados, 
-MSc. Allan Beveridge
+<!--
+% ### Postdocs
+<div>
+{%- for person in site.alumni -%}
+  {%- if "Postdoc" == person.category -%}
+    <li class="tab">{{ person.title }}, {{ person.degree }}</li>
+  {%- endif -%}
+{%- endfor -%}
+</div>
 
-<!--% ### Postdocs
-
-### PhD students-->
+### PhD students
+<div>
+{%- for person in site.alumni -%}
+  {%- if "PhD" == person.category -%}
+    <li class="tab">{{ person.title }}, {{ person.degree }}</li>
+  {%- endif -%}
+{%- endfor -%}
+</div>
+-->
 
 ### Honours and Masters
-BSc. Emily Gaughan, BSc. Seungwon Ko, BSc. Ruibo Zhang, MSc. Fiona Smith, BSc. Vincenzo Incutti
+<div>
+{%- for person in site.alumni -%}
+  {%- if "Honours" == person.category or "Master" == person.category-%}
+    <li class="tab">{{ person.title }}, {{ person.degree }}</li>
+  {%- endif -%}
+{%- endfor -%}
+</div>

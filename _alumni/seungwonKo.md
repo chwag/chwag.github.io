@@ -4,7 +4,8 @@ title: Seungwon Ko
 description: Honours student
 img: 
 importance: 1
-category: Honours students
+category: Honours
+degree: BSc.
 ---
 
 

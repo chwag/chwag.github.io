@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ruibo Zhang
+title: Vincenzo Incutti
 description: Honours student
 img: 
 importance: 1
