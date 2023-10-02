@@ -65,7 +65,8 @@ horizontal: false
     <li class="tab">{{ person.title }}, {{ person.degree }}</li>
   {%- endif -%}
 {%- endfor -%}
-</div>
+<br>
+</div> 
 
 <!--
 % ### Postdocs
