@@ -6,6 +6,7 @@ img: assets/img/profiles/hollieHindley_cropped.png
 importance: 1
 category: PhD students
 projects: [growth,ar]
+degree: MSc.
 ---
 
 

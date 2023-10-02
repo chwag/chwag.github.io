@@ -5,6 +5,7 @@ description: Research Assistant
 img: 
 importance: 1
 category: Staff
+degree: MSc.
 ---
 
 

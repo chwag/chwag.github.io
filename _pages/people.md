@@ -59,7 +59,16 @@ horizontal: false
 ## Alumni
 
 ### Staff
-MSc. Evangelos Nikolados
+<div>
+{%- for person in site.alumni -%}
+  {{ person.title }}
+  {%- if "Staff" == person.category -%}
+    <li class="tab">{{ person.title }}, {{ person.degree }}</li>
+  {%- endif -%}
+{%- endfor -%}
+</div>
+
+MSc. Evangelos Nikolados, 
 MSc. Allan Beveridge
 
 <!--% ### Postdocs
