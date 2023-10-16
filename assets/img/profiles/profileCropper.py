@@ -1,5 +1,4 @@
 import os, sys
-import numpy as np
 from PIL import Image
 
 ratio = 1/1

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <i> In situ <\i> enthusiasts since 2021
+subtitle: <i> In situ </i> enthusiasts since 2021
 
 news: true  # includes a list of news items
 selected_papers: false  # includes a list of papers marked as "selected={true}"
@@ -12,13 +12,13 @@ social: false  # includes social icons at the bottom of the page
 <div class="container">
   <div class="row">
     <div class="col-sm-3">
-      {% include figure.html path="assets/img/stock/infoInside.jpg" title="Informatics Forum" class="img-fluid rounded z-depth-1" %}
+      {% include figure.html path="assets/img/stock/infoOutside.jpg" title="Informatics Forum" class="img-heightAdjust rounded z-depth-1" %}
     </div>
     <div class="col-sm-6">
-      {% include figure.html path="assets/img/stock/waddington.jpg" title="Waddington building" class="img-fluid rounded z-depth-1" %}
+      {% include figure.html path="assets/img/stock/waddington.jpg" title="Waddington building" class="img-heigthAdjust rounded z-depth-1" %}
     </div>
     <div class="col-sm-3">
-      {% include figure.html path="assets/img/stock/carlton.jpg" title="View from Carlton Hill" class="img-fluid rounded z-depth-1" %}
+      {% include figure.html path="assets/img/stock/carlton.jpg" title="View from Carlton Hill" class="img-heightAdjust rounded z-depth-1" %}
     </div>
   </div>
 </div>
