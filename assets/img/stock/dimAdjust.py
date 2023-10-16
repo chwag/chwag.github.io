@@ -31,14 +31,14 @@ if infile != outfile:
                 newY = fullY
                 spaceY = 0
         elif width == 2:
-            if fullX < ratio * fullY:
+            if fullX < ratio * fullY * 1.05:
                 newX = fullX
                 spaceX = 0
-                newY = fullX * inverseRatio
-                spaceY = (fullY - fullX * inverseRatio) / 2
+                newY = fullX * inverseRatio / 1.05
+                spaceY = (fullY - fullX * inverseRatio / 1.05) / 2
             elif fullX > ratio * fullY:
-                newX = fullY * ratio
-                spaceX = (fullX - fullY * ratio) / 2
+                newX = fullY * ratio * 1.05
+                spaceX = (fullX - fullY * ratio * 1.05) / 2
                 newY = fullY
                 spaceY = 0
             else:
