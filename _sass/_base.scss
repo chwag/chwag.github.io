@@ -36,7 +36,8 @@ figure, img {
   //max-width: 90vw;
   width: 100%;
   height: auto;
-  vertical-align: middle
+  vertical-align: middle;
+  border-radius: 10px;
 }
 
 blockquote {
@@ -828,10 +829,8 @@ progress {
 
 .img1 {
   flex: 0.708;
-  border-radius: 10px;
  }
 
 .img2 {
   flex: 1.555;
-  border-radius: 10px;
  }
