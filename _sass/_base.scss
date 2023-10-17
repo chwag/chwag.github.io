@@ -34,6 +34,8 @@ a, table.table a {
 
 figure, img {
   max-width: 90vw;
+  width: 100%;
+  height: auto;
 }
 
 blockquote {
@@ -818,3 +820,11 @@ progress {
 .tab {
      margin-left: 40px;
  }
+
+.pics_in_a_row {
+  display: flex;
+}
+
+.img1 { flex: 0.708; }
+.img2 { flex: 3.069; }
+.img3 { flex: 0.707; }

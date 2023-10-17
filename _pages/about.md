@@ -10,14 +10,14 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 <div class="container">
-  <div class="row">
-    <div class="col-sm-3">
+  <div class="pics-in-a-row">
+    <div class="img1">
       {% include figure.html path="assets/img/stock/infoOutside_cropped.png" title="Informatics Forum" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-6">
+    <div class="img2">
       {% include figure.html path="assets/img/stock/waddington_cropped.png" title="Waddington building" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-3">
+    <div class="img3">
       {% include figure.html path="assets/img/stock/carlton_cropped.png" title="View from Carlton Hill" class="img-fluid rounded z-depth-1" %}
     </div>
   </div>
