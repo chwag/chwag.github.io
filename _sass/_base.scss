@@ -33,9 +33,10 @@ a, table.table a {
 }
 
 figure, img {
-  max-width: 90vw;
+  //max-width: 90vw;
   width: 100%;
   height: auto;
+  vertical-align: middle
 }
 
 blockquote {
@@ -826,5 +827,5 @@ progress {
 }
 
 .img1 { flex: 0.708; }
-.img2 { flex: 3.069; }
+.img2 { flex: 1.555; }
 .img3 { flex: 0.707; }
