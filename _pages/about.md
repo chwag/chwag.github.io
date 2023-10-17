@@ -12,13 +12,13 @@ social: false  # includes social icons at the bottom of the page
 <div class="container">
   <div class="img-group">
     <div class="img1">
-      <img src="assets/img/stock/infoOutside_cropped.png" alt="Informatics Forum">
+      <img src="assets/img/stock/infoOutside_cropped.png" alt="Informatics Forum" style="border-radius:5px">
     </div>
     <div class="img2">
-      <img src="assets/img/stock/waddington_cropped.png" alt="Waddington building">
+      <img src="assets/img/stock/waddington_cropped.png" alt="Waddington building" class="rounded-corners">
     </div>
     <div class="img1">
-      <img src="assets/img/stock/carlton_cropped.png" alt="View from Carlton Hill">
+      <img src="assets/img/stock/carlton_cropped.png" alt="View from Carlton Hill" class="img rounded-corners">
     </div>
   </div>
 </div>
