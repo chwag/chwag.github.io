@@ -10,7 +10,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 <div class="container">
-  <div class="pics-in-a-row">
+  <div class="img-group">
     <div class="img1">
       <img src="assets/img/stock/infoOutside_cropped.png" alt="Informatics Forum">
     </div>
