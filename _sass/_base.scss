@@ -826,5 +826,14 @@ progress {
   display: flex;
 }
 
-.img1 { flex: 0.708; }
-.img2 { flex: 1.555; }
+.img1 {
+  flex: 0.708;
+  padding: 15px;
+  border-radius: 15px;
+ }
+
+.img2 {
+  flex: 1.555;
+  padding: 15px;
+  border-radius: 15px;
+ }
