@@ -13,13 +13,12 @@ social: false  # includes social icons at the bottom of the page
   <div class="pics-in-a-row">
     <div class="img1">
       <img src="assets/img/stock/infoOutside_cropped.png" alt="Informatics Forum">
-      <!--{% include figure.html path="assets/img/stock/infoOutside_cropped.png" title="Informatics Forum" class="img-fluid rounded z-depth-1" %}-->
     </div>
     <div class="img2">
-      {% include figure.html path="assets/img/stock/waddington_cropped.png" title="Waddington building" %}
+      <img src="assets/img/stock/waddington_cropped.png" alt="Waddington building">
     </div>
     <div class="img3">
-      {% include figure.html path="assets/img/stock/carlton_cropped.png" title="View from Carlton Hill" class="img-fluid rounded z-depth-1" %}
+      <img src="assets/img/stock/carlton_cropped.png" alt="View from Carlton Hill">
     </div>
   </div>
 </div>
