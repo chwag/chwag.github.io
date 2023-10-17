@@ -827,10 +827,10 @@ progress {
   display: flex;
 }
 
-.img1 {
-  flex: 0.708;
- }
+.img1 {flex: 0.708}
+.img2 {flex: 1.555}
 
-.img2 {
-  flex: 1.555;
- }
+.rounded-corners {
+  border-radius: 10px;
+  padding: 10px;
+}
