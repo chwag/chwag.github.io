@@ -836,11 +836,6 @@ progress {
   margin: 10px;
 }
 
-.pic-ctn {
-  width: 100vw;
-  height: 200px;
-}
-
 @keyframes display {
   0% {
     transform: translateX(200px);
@@ -874,8 +869,8 @@ progress {
 .pic-ctn > img {
   position: absolute;
   top: 0;
-  left: 10%;
-  width: 90%;
+  left: 0;
+  width: 50%;
   opacity: 0;
   animation: display 8s infinite;
 }
