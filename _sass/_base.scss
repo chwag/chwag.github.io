@@ -838,7 +838,7 @@ progress {
 
 @keyframes display {
   0% {
-    transform: translateX(200px);
+    transform: translateX(20%);
     opacity: 0;
   }
   10% {
@@ -850,11 +850,11 @@ progress {
     opacity: 1;
   }
   50% {
-    transform: translateX(-200px);
+    transform: translateX(-20%);
     opacity: 0;
   }
   100% {
-    transform: translateX(-200px);
+    transform: translateX(-20%);
     opacity: 0;
   }
 }
@@ -864,7 +864,7 @@ progress {
   width: 100%;
   height: 0;
   margin-top: 10px;
-  padding-top: 50%;
+  padding-top: 70%;
 }
 
 .pic-ctn > img {
