@@ -868,13 +868,13 @@ progress {
   position: relative;
   width: 100vw;
   height: 300px;
-  margin-top: 15vh;
+  margin-top: 10px;
 }
 
 .pic-ctn > img {
   position: absolute;
   top: 0;
-  left: calc(50% - 100px);
+  left: calc(0 - 100px);
   opacity: 0;
   animation: display 8s infinite;
 }
