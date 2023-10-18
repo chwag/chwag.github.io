@@ -37,6 +37,6 @@ href="https://www.ed.ac.uk/biology/centre-engineering-biology">Centre for Engine
 </div>
 
 <div class="pic-ctn">
-  <img src="assets/img/group1.jpg" alt="Group hike in the Pentland hills" class="pic">
-  <img src="assets/img/group2.jpg" alt="Group on Bristo square 2023" class="pic">
+  <img src="assets/img/group/group1.jpg" alt="Group hike in the Pentland hills" class="pic">
+  <img src="assets/img/group/group2.jpg" alt="Group on Bristo square 2023" class="pic">
 </div>
