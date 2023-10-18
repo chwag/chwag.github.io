@@ -28,5 +28,5 @@ We are an interdisciplinary group led by <a href="/people/andreaWeisse/">Andrea 
 
 <div class="pic-ctn">
   <img src="assets/img/group1.jpg" alt="Group hike in the Pentland hills" class="pic">
-  <img src="assets/img/group2.png" alt="Group on Bristo square 2023" class="pic">
+  <img src="assets/img/group2.jpg" alt="Group on Bristo square 2023" class="pic">
 </div>

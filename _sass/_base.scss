@@ -850,11 +850,11 @@ progress {
     transform: translateX(0);
     opacity: 1;
   }
-  20% {
+  40% {
     transform: translateX(0);
     opacity: 1;
   }
-  30% {
+  50% {
     transform: translateX(-200px);
     opacity: 0;
   }
@@ -876,7 +876,7 @@ progress {
   top: 0;
   left: calc(50% - 100px);
   opacity: 0;
-  animation: display 10s infinite;
+  animation: display 8s infinite;
 }
 
 img:nth-child(2) {
