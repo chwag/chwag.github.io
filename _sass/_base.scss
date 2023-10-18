@@ -874,7 +874,8 @@ progress {
 .pic-ctn > img {
   position: absolute;
   top: 0;
-  left: 0;
+  left: 10%;
+  width: 90%;
   opacity: 0;
   animation: display 8s infinite;
 }
