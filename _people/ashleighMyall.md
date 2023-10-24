@@ -2,7 +2,7 @@
 layout: page
 title: Ashleigh Myall
 description: PhD student
-img: 
+img: assets/img/profiles/ashleighMyall_cropped.png
 importance: 1
 category: PhD
 projects: [hai]
