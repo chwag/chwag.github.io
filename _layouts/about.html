@@ -46,6 +46,12 @@ layout: default
             {%- include news.html %}
           {%- endif %}
 
+          <!-- Group pictures carousel -->
+          <div class="pic-ctn">
+            <img src="assets/img/group/group1.jpg" alt="Group hike in the Pentland hills" class="pic">
+            <img src="assets/img/group/group2.jpg" alt="Group on Bristo square 2023" class="pic">
+          </div>
+
           <!-- Selected papers -->
           {% if page.selected_papers -%}
             <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>

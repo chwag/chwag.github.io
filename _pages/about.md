@@ -35,8 +35,3 @@ both the <a href="https://www.ed.ac.uk/biology">School of Biological Sciences</a
 href="https://www.ed.ac.uk/informatics/">School of Informatics</a>, and also to be members of the <a 
 href="https://www.ed.ac.uk/biology/centre-engineering-biology">Centre for Engineering Biology</a>. <br> <br>
 </div>
-
-<div class="pic-ctn">
-  <img src="assets/img/group/group1.jpg" alt="Group hike in the Pentland hills" class="pic">
-  <img src="assets/img/group/group2.jpg" alt="Group on Bristo square 2023" class="pic">
-</div>
