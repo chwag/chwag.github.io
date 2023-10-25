@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Ashleigh Myall
+firstNames: Ashleigh
+surnames: Myall
 description: PhD student
 img: assets/img/profiles/ashleighMyall_cropped.png
 importance: 1

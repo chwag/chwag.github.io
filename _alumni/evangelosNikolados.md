@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Evangelos Nikolados
+firstNames: Evangelos
+surnames: Nikolados
 description: Research Assistant
 img: 
 importance: 1

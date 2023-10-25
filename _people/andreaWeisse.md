@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Andrea Yeong Weiße
+firstNames: Andrea Yeong
+surnames: Weiße
 description: Principal Investigator
 img: assets/img/profiles/andreaWeisse_cropped.png
 importance: 1

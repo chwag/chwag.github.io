@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Ruibo Zhang
+firstNames: Ruibo
+surnames: Zhang
 description: Honours student
 img: 
 importance: 1

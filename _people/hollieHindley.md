@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Hollie Hindley
+firstNames: Hollie
+surnames: Hindley
 description: PhD student
 img: assets/img/profiles/hollieHindley_cropped.png
 importance: 1

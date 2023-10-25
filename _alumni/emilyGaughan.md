@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Emily Gaughan
+firstNames: Emily
+surnames: Gaughan
 description: Honours student
 img: 
 importance: 1

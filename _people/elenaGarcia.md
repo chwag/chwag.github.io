@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Elena Pascual Garcia
+firstNames: Elena Pascual
+surnames: Garcia
 description: PhD student
 img: assets/img/profiles/elenaGarcia_cropped.png
 importance: 1

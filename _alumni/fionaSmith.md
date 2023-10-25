@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Fiona Smith
+firstNames: Fiona
+surnames: Smith
 description: Masters student
 img: 
 importance: 1

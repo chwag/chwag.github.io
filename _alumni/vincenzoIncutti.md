@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Vincenzo Incutti
+firstNames: Vincenzo
+surnames: Incutti
 description: Honours student
 img: 
 importance: 1

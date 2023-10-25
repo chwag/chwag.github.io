@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Allan Beveridge
+firstNames: Allan
+surnames: Beveridge
 description: Research Software Engineer
 img: 
 importance: 1

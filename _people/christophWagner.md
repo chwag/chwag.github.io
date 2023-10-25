@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Christoph Wagner
+firstNames: Christoph
+surnames: Wagner
 description: PhD student
 img: assets/img/profiles/christophWagner_cropped.png
 importance: 1

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Rohan Gorantla
+firstNames: Rohan
+surnames: Gorantla
 description: PhD student
 img: assets/img/profiles/rohanGorantla_cropped.png
 importance: 1

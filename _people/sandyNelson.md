@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Sandy Nelson
+firstNames: Sandy
+surnames: Nelson
 description: PhD student
 img: assets/img/profiles/sandyNelson_cropped.png
 importance: 1
