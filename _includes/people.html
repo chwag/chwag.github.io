@@ -13,9 +13,7 @@
           alt="person thumbnail" -%}
         {%- endif %}
         <div class="card-body">
-          {% with person_names = person.title.split(' ') %}
-            <h2 class="card-title">{% for subname in person_names %}{{ subname }} {% if forloop.counter == person_names|length - 1 %}<br>{% endif %}</h2>
-          {% endfor %}
+          <h2 class="card-title">{% for subname in person.title.split(' ') %}{{ subname }} {% if forloop.counter == person.title.split(' ')|length - 1 %}<br>{% endif %}</h2>
           <p class="card-text">{{ person.description }}</p>
           <div class="row ml-1 mr-1 p-0">
             {%- if person.github -%}
