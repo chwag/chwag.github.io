@@ -16,7 +16,9 @@
         <div class="col-md-12">
         {%- endif -%}
           <div class="card-body">
-            <h3 class="card-title text-lowercase">{{ person.title }}</h3>
+            {% with person_names = wizard.form.tags.split(' ') %}
+              <h3 class="card-title text-lowercase">{% for subname in person_names %}{{ subname }} {% if forloop.counter == person_names|length - 1 %}<br>{% endif %}</h3>
+            {% endwith %}
             <p class="card-text">{{ person.description }}</p>
             <div class="row ml-1 mr-1 p-0">
               {%- if person.github -%}
