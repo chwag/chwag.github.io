@@ -13,7 +13,9 @@
           alt="person thumbnail" -%}
         {%- endif %}
         <div class="card-body">
-          <h2 class="card-title">{{ person.title }}</h2>
+          {% with person_names = wizard.form.tags.split(' ') %}
+            <h2 class="card-title">{% for subname in person_names %}{{ subname }} {% if forloop.counter == person_names|length - 1 %}<br>{% endif %}</h2>
+          {% endwith %}
           <p class="card-text">{{ person.description }}</p>
           <div class="row ml-1 mr-1 p-0">
             {%- if person.github -%}
