@@ -25,7 +25,7 @@
         <!-- Entry bib key -->
         <div id="{{entry.key}}" class="col-sm-8">
         <!-- Title -->
-        <div href={{ entry.url }} class="title">{{entry.title}}</div>
+        <div href="{{entry.url}}" class="title" role="button">{{entry.title}}</div>
         <!-- Author -->
         <div class="author">
         {% assign author_array_size = entry.author_array | size %}
