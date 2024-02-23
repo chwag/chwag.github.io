@@ -874,9 +874,9 @@ progress {
   left: calc(50% - 40%);
   width: 80%;
   opacity: 0;
-  animation: display 10s infinite;
+  animation: display 15s infinite;
 }
 
-img:nth-child(2) {
+img:nth-child(3) {
   animation-delay: 5s;
 }
