@@ -32,7 +32,7 @@ efficacy. Our goal is to derive insights that can enhance existing antibiotic th
 overuse of antibiotics.
 
 <div>
-<span> Currently working on this: </span>
+  <span> Currently working on this: </span>
   <li class="tab"><a href="/people/hollieHindley/">Hollie Hindley</a></li>
   <li class="tab"><a href="/people/elenaGarcia/">Elena Pascual Garcia</a></li>
 </div>
