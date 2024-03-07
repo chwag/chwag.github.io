@@ -23,7 +23,6 @@ social: false  # includes social icons at the bottom of the page
   </div>
 </div>
 
-
 <div> 
   Our group focuses on computational systems analyses of biological processes. We use mechanistic computational models 
 to integrate heterogenous data into predictive models. We have a particular interest in mechanisms that promote the 
