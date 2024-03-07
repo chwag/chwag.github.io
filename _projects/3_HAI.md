@@ -19,11 +19,5 @@ driving the emergence and spread of antibiotic resistance.
 
 <div>
 <span> Currently working on this: </span>
-{%- for person in site.people -%}
-    {%- for project in person.projects -%}
-        {%- if "hai" == project -%}
-            <li class="tab"><a href="{{ person.url }}">{{ person.title }}</a></li>
-        {%- endif -%}
-    {%- endfor -%}
-{%- endfor -%}
+  <li class="tab"><a href="/people/ashleighMyall/">Ashleigh Myall</a></li>
 </div>

@@ -19,13 +19,7 @@ insights into hallmarks of self-regeneration underpinning living systems.
 
 <div>
 <span> Currently working on this: </span>
-{%- for person in site.people -%}
-    {%- for project in person.projects -%}
-        {%- if "cfps" == project -%}
-            <li class="tab"><a href="../..{{ person.url }}">{{ person.title }}</a></li>
-        {%- endif -%}
-    {%- endfor -%}
-{%- endfor -%}
+  <li class="tab"><a href="/people/christophWagner/">{{ Christoph Wagner }}</a></li>
 </div>
 
 --------
@@ -37,11 +31,5 @@ experiments designed to maximise the insights derived and expedite the design-bu
 
 <div>
 <span> Currently working on this: </span>
-{%- for person in site.people -%}
-    {%- for project in person.projects -%}
-        {%- if "inference" == project -%}
-            <li class="tab"><a href="/people/sandyNelson/">{{ person.title }}</a></li>
-        {%- endif -%}
-    {%- endfor -%}
-{%- endfor -%}
+  <li class="tab"><a href="/people/sandyNelson/">{{ Sandy Nelson }}</a></li>
 </div>

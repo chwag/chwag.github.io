@@ -17,14 +17,9 @@ rooted in core cellular mechanisms, which allows us to predict growth as it emer
 environmental stimuli with cellular mechanisms.
 
 <div>
-<span> Currently working on this: </span> 
-{%- for person in site.people -%}
-    {%- for project in person.projects -%}
-        {%- if "growth" == project -%}
-            <li class="tab"><a href="{{ person.url }}">{{ person.title }}</a></li>
-        {%- endif -%}
-    {%- endfor -%}
-{%- endfor -%}
+<span> Currently working on this: </span>
+  <li class="tab"><a href="/people/hollieHindley/">Hollie Hindley</a></li>
+  <li class="tab"><a href="/people/elenaGarcia/">Elena Pascual Garcia</a></li>
 </div>
 
 --------
@@ -36,11 +31,6 @@ overuse of antibiotics.
 
 <div>
 <span> Currently working on this: </span>
-{%- for person in site.people -%}
-    {%- for project in person.projects -%}
-        {%- if "ar" == project -%}
-            <li class="tab"><a href="{{ person.url }}">{{ person.title }}</a></li>
-        {%- endif -%}
-    {%- endfor -%}
-{%- endfor -%}
+  <li class="tab"><a href="/people/hollieHindley/">Hollie Hindley</a></li>
+  <li class="tab"><a href="/people/elenaGarcia/">Elena Pascual Garcia</a></li>
 </div>
