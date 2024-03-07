@@ -7,9 +7,8 @@ description: Principal Investigator
 img: assets/img/profiles/andreaWeisse_cropped.png
 importance: 1
 category: PI
-degree: Dr. 
+degree: Dr.
 ---
-
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">

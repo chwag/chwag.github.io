@@ -6,5 +6,5 @@ related_posts: false
 ---
 
 Hollie gave an exciting talk about her work on modelling the role of RNA repair in antibiotic tolerance at the <a 
-href="https://indico.ictp.it/event/10213/overview">Advanced School on Quantitative Principles in Microbial 
+href="https://indico.ictp.it/event/10213/overview">Advanced School on Quantitative Principles in Microbial
 Physiology</a> in beautiful Trieste.

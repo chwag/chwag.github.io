@@ -8,7 +8,7 @@ category: work
 ---
 
 Synthetic biology explores the design and construction of biological components, both for understanding life's 
-fundamental principles and applying them in biotechnology. Within this domain, our group is currently engaged in two 
+fundamental principles and applying them in biotechnology. Within this domain, our group is currently engaged in two
 areas:
 
 ### Cell-free protein expression
@@ -18,11 +18,11 @@ expression systems. We aim to both improve the efficiency and sustainability of 
 insights into hallmarks of self-regeneration underpinning living systems.
 
 <div>
-<span> Currently working on this: </span>
+  <span> Currently working on this: </span>
   <li class="tab"><a href="/people/christophWagner/">{{ Christoph Wagner }}</a></li>
 </div>
 
---------
+---
 
 ### Model inference and optimal experimental design
 
@@ -30,6 +30,6 @@ We develop robust methods for parameter inference and optimal experimental desig
 experiments designed to maximise the insights derived and expedite the design-build-test-learn cycle.
 
 <div>
-<span> Currently working on this: </span>
+  <span> Currently working on this: </span>
   <li class="tab"><a href="/people/sandyNelson/">{{ Sandy Nelson }}</a></li>
 </div>

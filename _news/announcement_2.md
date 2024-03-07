@@ -5,5 +5,5 @@ inline: true
 ---
 
 Hollie is at it again, talking at the <a 
-href="https://www.ed.ac.uk/infection-medicine/antimicrobial-resistance/edinburgh-amr-forum">Edinburgh Antimicrobial 
+href="https://www.ed.ac.uk/infection-medicine/antimicrobial-resistance/edinburgh-amr-forum">Edinburgh Antimicrobial
 Resistance Forum</a> about bistability in the Rtc system and how it relates to AMR - way to go!

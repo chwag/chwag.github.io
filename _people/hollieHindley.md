@@ -7,10 +7,9 @@ description: PhD student
 img: assets/img/profiles/hollieHindley_cropped.png
 importance: 1
 category: PhD
-projects: [growth,ar]
+projects: [growth, ar]
 degree: MSc.
 ---
-
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">

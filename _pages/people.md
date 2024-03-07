@@ -54,18 +54,19 @@ horizontal: false
 {%- endif -%}
 </div>
 
---------
+---
 
 ## Alumni
 
 ### Staff
+
 <div>
-{%- for person in site.alumni -%}
-  {%- if "Staff" == person.category -%}
-    <li class="tab">{{ person.title }}, {{ person.degree }}</li>
-  {%- endif -%}
-{%- endfor -%}
-<br>
+  {%- for person in site.alumni -%}
+    {%- if "Staff" == person.category -%}
+      <li class="tab">{{ person.title }}, {{ person.degree }}</li>
+    {%- endif -%}
+  {%- endfor -%}
+  <br>
 </div> 
 
 <!--
@@ -89,6 +90,7 @@ horizontal: false
 -->
 
 ### Honours and Masters
+
 <div>
 {%- for person in site.alumni -%}
   {%- if "Honours" == person.category or "Master" == person.category-%}
