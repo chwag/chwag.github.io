@@ -21,8 +21,7 @@ degree: MSc.
       include figure.liquid 
       path="assets/img/profiles/rohanGorantla_cropped.png" 
       title="Rohan Gorantla" 
-      class="img-fluid rounded 
-      z-depth-1" 
+      class="img-fluid rounded z-depth-1" 
     %}
   </div>
 </div>

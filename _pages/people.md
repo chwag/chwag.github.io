@@ -22,14 +22,14 @@ horizontal: false
   <div class="container">
     <div class="row row-cols-2">
     {%- for person in sorted_people -%}
-      {% include people_horizontal.html %}
+      {% include people_horizontal.liquid %}
     {%- endfor %}
     </div>
   </div>
   {%- else -%}
   <div class="grid">
     {%- for person in sorted_people -%}
-      {% include people.html %}
+      {% include people.liquid %}
     {%- endfor %}
   </div>
   {%- endif -%}
@@ -40,14 +40,14 @@ horizontal: false
   <div class="container">
     <div class="row row-cols-2">
     {%- for person in site.people -%}
-      {% include people_horizontal.html %}
+      {% include people_horizontal.liquid %}
     {%- endfor %}
     </div>
   </div>
   {%- else -%}
   <div class="grid">
     {%- for person in site.people -%}
-      {% include people.html %}
+      {% include people.liquid %}
     {%- endfor %}
   </div>
   {%- endif -%}
