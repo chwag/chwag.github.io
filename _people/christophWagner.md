@@ -28,7 +28,7 @@ articles on my blog and sometimes running around in circles.
         </p>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/profiles/christophWagner_cropped.png" title="Christoph Wagner" 
+        {% include figure.liquid path="assets/img/profiles/christophWagner_cropped.png" title="Christoph Wagner" 
 class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

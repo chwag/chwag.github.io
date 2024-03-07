@@ -28,7 +28,7 @@ the goal of creating a tool to support the design of antibiotic combination ther
         </p>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/profiles/elenaGarcia_cropped.png" title="Elena Pascual Garcia" 
+        {% include figure.liquid path="assets/img/profiles/elenaGarcia_cropped.png" title="Elena Pascual Garcia" 
 class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

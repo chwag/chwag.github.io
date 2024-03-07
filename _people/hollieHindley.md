@@ -26,7 +26,7 @@ doorstep in Edinburgh! 
         </p>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/profiles/hollieHindley_cropped.png" title="Hollie Hindley" 
+      {% include figure.liquid path="assets/img/profiles/hollieHindley_cropped.png" title="Hollie Hindley" 
 class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
