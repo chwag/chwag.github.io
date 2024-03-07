@@ -7,7 +7,9 @@ importance: 1
 category: work
 ---
 
-Bacterial growth offers vital insights into life, evolution, and disease. The way bacteria grow is intricately linked to factors like nutrient availability, competitive interactions, and environmental challenges such as antibiotics. Our group focuses on two key areas:
+Bacterial growth offers vital insights into life, evolution, and disease. The way bacteria grow is intricately linked to
+factors like nutrient availability, competitive interactions, and environmental challenges such as antibiotics. Our
+group focuses on two key areas:
 
 ### Multi-scale models of bacterial cells
 
