@@ -30,7 +30,7 @@ relationships that drove features like AutoRip, movie discovery on Fire TV and m
     {% 
       include figure.liquid 
       path="assets/img/profiles/sandyNelson_cropped.png" 
-      title="Sandy Nelson" 
+      title="Sandy Nelson"
       class="img-fluid rounded z-depth-1" 
     %}
   </div>

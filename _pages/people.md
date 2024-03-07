@@ -67,7 +67,7 @@ horizontal: false
     {%- endif -%}
   {%- endfor -%}
   <br>
-</div> 
+</div>
 
 <!--
 % ### Postdocs

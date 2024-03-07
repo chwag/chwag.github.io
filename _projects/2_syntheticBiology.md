@@ -14,7 +14,7 @@ areas:
 ### Cell-free protein expression
 
 We develop and analyse computational models to probe conditions that drive self-regeneration within cell-free
-expression systems. We aim to both improve the efficiency and sustainability of protein production and gain deeper 
+expression systems. We aim to both improve the efficiency and sustainability of protein production and gain deeper
 insights into hallmarks of self-regeneration underpinning living systems.
 
 <div>
