@@ -78,6 +78,7 @@ horizontal: false
   {%- endif -%}
 {%- endfor -%}
 </div>
+-->
 
 ### PhD students
 <div>
@@ -87,7 +88,6 @@ horizontal: false
   {%- endif -%}
 {%- endfor -%}
 </div>
--->
 
 ### Honours and Masters
 

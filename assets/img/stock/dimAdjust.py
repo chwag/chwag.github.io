@@ -52,3 +52,5 @@ if infile != outfile:
         croppedIm.save(outfile + ".png", "PNG")
     except IOError:
         print("cannot create thumbnail for '%s'" % infile)
+
+# TODO add reduction of resolution
