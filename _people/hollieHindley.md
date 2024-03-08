@@ -4,7 +4,7 @@ title: Hollie Hindley
 firstNames: Hollie
 surnames: Hindley
 description: PhD student
-img: assets/img/profiles/hollieHindley_cropped.png
+img: assets/img/profiles/hollieHindley_cropped.jpg
 importance: 1
 category: PhD
 projects: [growth, ar]

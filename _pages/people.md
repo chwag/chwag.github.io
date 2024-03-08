@@ -72,29 +72,32 @@ horizontal: false
 <!--
 % ### Postdocs
 <div>
-{%- for person in site.alumni -%}
-  {%- if "Postdoc" == person.category -%}
-    <li class="tab">{{ person.title }}, {{ person.degree }}</li>
-  {%- endif -%}
-{%- endfor -%}
+  {%- for person in site.alumni -%}
+    {%- if "Postdoc" == person.category -%}
+      <li class="tab">{{ person.title }}, {{ person.degree }}</li>
+    {%- endif -%}
+  {%- endfor -%}
+  <br>
 </div>
 -->
 
 ### PhD students
+
 <div>
-{%- for person in site.alumni -%}
-  {%- if "PhD" == person.category -%}
-    <li class="tab">{{ person.title }}, {{ person.degree }}</li>
-  {%- endif -%}
-{%- endfor -%}
+  {%- for person in site.alumni -%}
+    {%- if "PhD" == person.category -%}
+      <li class="tab">{{ person.title }}, {{ person.degree }}</li>
+    {%- endif -%}
+  {%- endfor -%}
+  <br>
 </div>
 
 ### Honours and Masters
 
 <div>
-{%- for person in site.alumni -%}
-  {%- if "Honours" == person.category or "Master" == person.category-%}
-    <li class="tab">{{ person.title }}, {{ person.degree }}</li>
-  {%- endif -%}
-{%- endfor -%}
+  {%- for person in site.alumni -%}
+    {%- if "Honours" == person.category or "Master" == person.category-%}
+      <li class="tab">{{ person.title }}, {{ person.degree }}</li>
+    {%- endif -%}
+  {%- endfor -%}
 </div>

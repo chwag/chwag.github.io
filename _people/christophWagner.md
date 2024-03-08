@@ -4,7 +4,7 @@ title: Christoph Wagner
 firstNames: Christoph
 surnames: Wagner
 description: PhD student
-img: assets/img/profiles/christophWagner_cropped.png
+img: assets/img/profiles/christophWagner_cropped.jpg
 importance: 1
 category: PhD
 projects: [cfps]

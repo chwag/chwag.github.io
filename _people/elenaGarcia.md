@@ -4,7 +4,7 @@ title: Elena Pascual Garcia
 firstNames: Elena Pascual
 surnames: Garcia
 description: PhD student
-img: assets/img/profiles/elenaGarcia_cropped.png
+img: assets/img/profiles/elenaGarcia_cropped.jpg
 importance: 1
 category: PhD
 projects: [growth, ar]

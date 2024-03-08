@@ -4,7 +4,7 @@ title: Andrea Yeong Weiße
 firstNames: Andrea Yeong
 surnames: Weiße
 description: Principal Investigator
-img: assets/img/profiles/andreaWeisse_cropped.png
+img: assets/img/profiles/andreaWeisse_cropped.jpg
 importance: 1
 category: PI
 degree: Dr.

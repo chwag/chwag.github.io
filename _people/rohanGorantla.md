@@ -4,7 +4,7 @@ title: Rohan Gorantla
 firstNames: Rohan
 surnames: Gorantla
 description: PhD student
-img: assets/img/profiles/rohanGorantla_cropped.png
+img: assets/img/profiles/rohanGorantla_cropped.jpg
 importance: 1
 category: PhD
 projects: []

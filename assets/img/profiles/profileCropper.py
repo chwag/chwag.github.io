@@ -3,6 +3,7 @@ from PIL import Image
 
 ratio = 1/1
 inverseRatio = 1/ratio
+size = (1024,1024)
 
 for infile in sys.argv[1:]:
     outfile = os.path.splitext(infile)[0] + "_cropped"
@@ -31,6 +32,8 @@ for infile in sys.argv[1:]:
             box = (spaceX, spaceY, spaceX + newX , spaceY + newY)
             print(newX,newY)
             croppedIm = im.crop(box)
-            croppedIm.save(outfile + ".png", "PNG")
+            croppedIm.thumbnail(size)
+            rgbIm = croppedIm.convert('RGB')
+            rgbIm.save(outfile + ".jpg", "JPEG", optimize=True)
         except IOError:
             print("cannot create thumbnail for '%s'" % infile)

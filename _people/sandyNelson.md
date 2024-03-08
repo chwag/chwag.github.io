@@ -4,7 +4,7 @@ title: Sandy Nelson
 firstNames: Sandy
 surnames: Nelson
 description: PhD student
-img: assets/img/profiles/sandyNelson_cropped.png
+img: assets/img/profiles/sandyNelson_cropped.jpg
 importance: 1
 category: PhD
 projects: [inference]
