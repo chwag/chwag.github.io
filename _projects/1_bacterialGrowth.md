@@ -2,7 +2,7 @@
 layout: page
 title: Bacterial growth
 description: Investigating bacterial growth and how it is controlled
-img: assets/img/projects/cellmodel_cropped.png
+img: assets/img/projects/bacterialGrowth.jpg
 importance: 1
 category: work
 ---
