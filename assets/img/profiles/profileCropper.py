@@ -1,18 +1,19 @@
-import os, sys
-from PIL import Image
+import os, sys, glob
+from PIL import Image, ImageOps
 
 ratio = 1/1
 inverseRatio = 1/ratio
 size = (1024,1024)
 
-for infile in sys.argv[1:]:
-    outfile = os.path.splitext(infile)[0] + "_cropped"
-    if infile != outfile:
+infiles = glob.glob('*.png') + glob.glob('*.jpg')
+for infile in infiles:
+    if "_cropped" not in infile:
         try:
             print(infile)
+            outfile = os.path.splitext(infile)[0] + "_cropped"
             im = Image.open(infile)
-            fullX,fullY = im.size
-            print(im.size)
+            fixedIm = ImageOps.exif_transpose(im) # This fixes the orientation, which may otherwise act funny due to metadata
+            fullX,fullY = fixedIm.size
             if fullX < ratio * fullY:
                 newX = fullX
                 spaceX = 0
@@ -30,8 +31,7 @@ for infile in sys.argv[1:]:
                 spaceY = 0
 
             box = (spaceX, spaceY, spaceX + newX , spaceY + newY)
-            print(newX,newY)
-            croppedIm = im.crop(box)
+            croppedIm = fixedIm.crop(box)
             croppedIm.thumbnail(size)
             rgbIm = croppedIm.convert('RGB')
             rgbIm.save(outfile + ".jpg", "JPEG", optimize=True)
