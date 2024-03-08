@@ -2,7 +2,7 @@
 layout: page
 title: Health data science
 description: Leveraging data to improve healthcare
-img: assets/img/projects/healthData.jpg
+img: assets/img/projects/healthData_cropped.jpg
 importance: 1
 category: work
 ---

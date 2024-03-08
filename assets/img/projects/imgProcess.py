@@ -1,7 +1,7 @@
 import os, sys, glob
 from PIL import Image
 
-ratio = 4/3
+ratio = 4/4 # Used to be 4/3
 inverseRatio = 1/ratio
 size = (512 * ratio, 512)
 
