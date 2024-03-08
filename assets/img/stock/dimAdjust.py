@@ -1,20 +1,22 @@
+## This code crops an image to the ratio 1/np.sqrt(2) or its inverse. As kwargs, provide the filename and the orientation of the final image.
+
 import os, sys
 import numpy as np
 from PIL import Image
 
 ratio = np.sqrt(2)
 inverseRatio = 1/ratio
+shortSide = 1024
 
 infile = sys.argv[1]
 outfile = os.path.splitext(infile)[0] + "_cropped"
 if infile != outfile:
     try:
-        print(infile)
         im = Image.open(infile)
         fullX,fullY = im.size
-        print(im.size)
-        width = int(sys.argv[2])
-        if width == 1:
+        aspect = sys.argv[2]
+        if aspect == "tall":
+            size = (shortSide, shortSide * ratio)
             if fullY > ratio * fullX:
                 newX = fullX
                 spaceX = 0
@@ -30,7 +32,8 @@ if infile != outfile:
                 spaceX = 0
                 newY = fullY
                 spaceY = 0
-        elif width == 2:
+        elif aspect == "wide":
+            size = (shortSide * ratio, shortSide)
             if fullX < ratio * fullY * 1.1:
                 newX = fullX
                 spaceX = 0
@@ -47,9 +50,9 @@ if infile != outfile:
                 newY = fullY
                 spaceY = 0
         box = (spaceX, spaceY, spaceX + newX , spaceY + newY)
-        print(newX,newY)
         croppedIm = im.crop(box)
-        croppedIm.save(outfile + ".png", "PNG")
+        croppedIm.thumbnail(size)
+        croppedIm.save(outfile + ".jpg", "JPEG", optimize=True)
     except IOError:
         print("cannot create thumbnail for '%s'" % infile)
 
