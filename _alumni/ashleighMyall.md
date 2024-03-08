@@ -8,7 +8,7 @@ img: assets/img/profiles/ashleighMyall_cropped.jpg
 importance: 1
 category: PhD
 projects: [hai]
-degree: MSc.
+degree: Dr.
 ---
 
 <div class="row">

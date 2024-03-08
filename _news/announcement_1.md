@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2023-10-03 15:59:00-0400
+date: 2023-05-24 15:59:00-0400
 inline: true
-related_posts: false
 ---
 
-Hollie gave an exciting talk about her work on modelling the role of RNA repair in antibiotic tolerance at the <a href="https://indico.ictp.it/event/10213/overview">Advanced School on Quantitative Principles in Microbial Physiology</a> in beautiful Trieste.
+Christoph's recent work on the <a href="https://ieeexplore.ieee.org/document/10123823">effect of immersive motor prompts
+on motor imagery</a> was published in the proceedings of the 11th International IEEE/EMBS Conference on Neural
+Engineering - congratulations, Christoph!

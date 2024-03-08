@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2024-01-24 20:40:00-0800
+date: 2023-11-14 15:59:00-0400
 inline: true
-related_posts: false
 ---
 
-Christoph just had his first first-author paper published! This work on automated and standardised GMO data management helped his former group properly inventorise and document their bioparts according to German law. <a href="https://onlinelibrary.wiley.com/doi/10.1002/adbi.202300529">Check it out!</a>
+Hollie is at it again, talking at the <a href="https://www.ed.ac.uk/infection-medicine/antimicrobial-resistance/edinburgh-amr-forum">Edinburgh Antimicrobial Resistance Forum</a> about bistability in the Rtc system and how it relates to AMR - way to go!

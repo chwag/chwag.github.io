@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2023-11-14 15:59:00-0400
+date: 2023-10-03 15:59:00-0400
 inline: true
+related_posts: false
 ---
 
-Hollie is at it again, talking at the <a href="https://www.ed.ac.uk/infection-medicine/antimicrobial-resistance/edinburgh-amr-forum">Edinburgh Antimicrobial Resistance Forum</a> about bistability in the Rtc system and how it relates to AMR - way to go!
+Hollie gave an exciting talk about her work on modelling the role of RNA repair in antibiotic tolerance at the <a href="https://indico.ictp.it/event/10213/overview">Advanced School on Quantitative Principles in Microbial Physiology</a> in beautiful Trieste.

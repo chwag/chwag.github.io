@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2023-05-24 15:59:00-0400
+date: 2023-01-1 15:59:00-0400
 inline: true
 ---
 
-Christoph's recent work on the <a href="https://ieeexplore.ieee.org/document/10123823">effect of immersive motor prompts
-on motor imagery</a> was published in the proceedings of the 11th International IEEE/EMBS Conference on Neural
-Engineering - congratulations, Christoph!
+Hollie starts the new year with a six-month-long stay the [Buck lab](https://www.bucklab.org) at Imperial College
+London. She will take qPCR readings to collect gene expression data of cell populations, interrogating her modelling 
+work.  
