@@ -6,7 +6,7 @@ from PIL import Image
 
 ratio = np.sqrt(2)
 inverseRatio = 1/ratio
-shortSide = 1024
+shortSide = 512
 
 infile = sys.argv[1]
 outfile = os.path.splitext(infile)[0] + "_cropped"
