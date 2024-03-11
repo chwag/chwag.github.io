@@ -2,7 +2,7 @@
 layout: page
 title: Synthetic biology
 description: Understanding and optimising synthetic biological systems
-img: assets/img/projects/synBio_cropped.jpg
+img: assets/img/projects/coverImages/synBio_cropped.jpg
 importance: 1
 category: work
 ---
@@ -24,15 +24,9 @@ insights into hallmarks of self-regeneration underpinning living systems.
 
 <div class="container">
   <div class="img-group">
-    <div class="img2">
       <img src="../assets/img/projects/textImages/chemostat0.JPG" alt="The chemostat setup" class="img-fluid rounded z-depth-1">
-    </div>
-    <div class="img2">
       <img src="../assets/img/projects/textImages/emprRG_v1.png" alt="Self-replicator model" class="img-fluid rounded z-depth-1">
-    </div>
-    <div class="img2">
       <img src="../assets/img/projects/textImages/20230811_hm_DmDr.png" alt="A parameter exploration" class="img-fluid rounded z-depth-1">
-    </div>
   </div>
 </div>
 
