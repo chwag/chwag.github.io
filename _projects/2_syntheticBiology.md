@@ -10,7 +10,7 @@ category: work
 <div class="container">
   <div class="img-group">
     <div class="img1">
-      <img src="../assets/img/stock/infoOutside_cropped.jpg" alt="Informatics Forum" class="img-fluid rounded z-depth-1">
+      <img src="../assets/img/stock/infoOutside_croped.jpg" alt="Informatics Forum" class="img-fluid rounded z-depth-1">
     </div>
     <div class="img2">
       <img src="../assets/img/stock/waddington_cropped.jpg" alt="Waddington building" class="img-fluid rounded z-depth-1">
