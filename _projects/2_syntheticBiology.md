@@ -23,11 +23,9 @@ insights into hallmarks of self-regeneration underpinning living systems.
 </div>
 
 <div class="container">
-  <div class="img-group">
-      <img src="../assets/img/projects/textImages/chemostat0.JPG" alt="The chemostat setup" class="img-fluid rounded z-depth-1">
-      <img src="../assets/img/projects/textImages/emprRG_v1.png" alt="Self-replicator model" class="img-fluid rounded z-depth-1">
-      <img src="../assets/img/projects/textImages/20230811_hm_DmDr.png" alt="A parameter exploration" class="img-fluid rounded z-depth-1">
-  </div>
+  <img src="assets/img/projects/textImages/chemostat0.JPG" alt="The chemostat setup" class="img-fluid rounded z-depth-1">
+  <img src="assets/img/projects/textImages/emprRG_v1.png" alt="Self-replicator model" class="img-fluid rounded z-depth-1">
+  <img src="assets/img/projects/textImages/20230811_hm_DmDr.png" alt="A parameter exploration" class="img-fluid rounded z-depth-1">
 </div>
 
 ---
