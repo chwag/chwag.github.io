@@ -7,6 +7,20 @@ importance: 1
 category: work
 ---
 
+<div class="container">
+  <div class="img-group">
+    <div class="img1">
+      <img src="../assets/img/stock/infoOutside_cropped.jpg" alt="Informatics Forum" class="img-fluid rounded z-depth-1">
+    </div>
+    <div class="img2">
+      <img src="../assets/img/stock/waddington_cropped.jpg" alt="Waddington building" class="img-fluid rounded z-depth-1">
+    </div>
+    <div class="img1">
+      <img src="../assets/img/stock/carlton_cropped.jpg" alt="View from Carlton Hill" class="img-fluid rounded z-depth-1">
+    </div>
+  </div>
+</div>
+
 Synthetic biology explores the design and construction of biological components, both for understanding life's
 fundamental principles and applying them in biotechnology. Within this domain, our group is currently engaged in two
 areas:
@@ -20,25 +34,6 @@ insights into hallmarks of self-regeneration underpinning living systems.
 <div>
   <span> Currently working on this: </span>
   <li class="tab"><a href="/people/christophWagner/">Christoph Wagner</a></li>
-</div>
-
-<div class="container">
-  <div class="img-group">
-    <div class="col-sm mt-3 mt-md-0">
-    {% 
-      include figure.liquid 
-      path="assets/img/projects/textImages/chemostat0.JPG" 
-      title="A microchemostat" 
-      class="img-fluid rounded z-depth-1" 
-    %}
-    </div>
-    <div class="img2">
-      <img src="../assets/img/stock/waddington_cropped.jpg" alt="Waddington building" class="img-fluid rounded z-depth-1">
-    </div>
-    <div class="img1">
-      <img src="../assets/img/stock/carlton_cropped.jpg" alt="View from Carlton Hill" class="img-fluid rounded z-depth-1">
-    </div>
-  </div>
 </div>
 
 ---
