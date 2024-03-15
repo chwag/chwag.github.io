@@ -21,6 +21,18 @@ category: work
   </div>
 </div>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/textImages/chemostat0.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/textImages/emprRG_v1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/textImages/20230811_hm_DmDr.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 Synthetic biology explores the design and construction of biological components, both for understanding life's
 fundamental principles and applying them in biotechnology. Within this domain, our group is currently engaged in two
 areas:
