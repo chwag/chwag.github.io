@@ -4,6 +4,9 @@
   {% if include.slot %}
     slot="{{ include.slot }}"
   {% endif %}
+  {% if include.style %}
+    style="{{ include.style }}"
+  {% endif %}
 >
   <picture>
     <!-- Auto scaling with imagemagick -->
@@ -53,9 +56,6 @@
             max-height: {{ include.max-height }};
           {% endif %}
         "
-      {% endif %}
-      {% if include.style %}
-        style="{{ include.alt }}"
       {% endif %}
       {% if include.alt %}
         alt="{{ include.alt }}"
