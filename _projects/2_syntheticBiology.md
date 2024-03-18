@@ -8,31 +8,17 @@ category: work
 ---
 
 <div class="container">
-  <div class="img-group">
-    <div class="img2">
-      <img src="../../assets/img/projects/textImages/chemostat0.JPG" alt="A microchemostat" class="img-fluid rounded z-depth-1">
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/textImages/chemostat0.JPG" title="A microchemostat" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="img2">
-      <img src="../../assets/img/projects/textImages/emprRG_v1.png" alt="Self-replicator model" class="img-fluid rounded z-depth-1">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/textImages/emprRG_v1.png" title="Self-replicator model" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="img2">
-      <img src="../../assets/img/projects/textImages/20230811_hm_DmDr.png" alt="A parameter exploration" class="img-fluid rounded z-depth-1">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/textImages/20230811_hm_DmDr.png" title="A parameter exploration" class="img-fluid rounded z-depth-1" style="margin-top: auto" %}
     </div>
   </div>
-</div>
-
-<div class="container">
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/textImages/chemostat0.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/textImages/emprRG_v1.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/textImages/20230811_hm_DmDr.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
 </div>
 
 Synthetic biology explores the design and construction of biological components, both for understanding life's
