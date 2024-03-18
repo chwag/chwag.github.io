@@ -19,7 +19,13 @@ insights into hallmarks of self-regeneration underpinning living systems.
 
 <div>
   <span> Currently working on this: </span>
-  <li class="tab"><a href="/people/christophWagner/">Christoph Wagner</a></li>
+  {%- for person in site.people -%}
+    {%- for project in person.projects -%}
+      {%- if "cfps" == project -%}
+        <li class="tab"><a href="{{ person.url }}">{{ person.title }}</a></li>
+      {%- endif -%}
+    {%- endfor -%}
+  {%- endfor -%}
 </div>
 
 <div class="container" style="margin-top: 20px">
