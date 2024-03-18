@@ -12,7 +12,7 @@ for pprKey in bib_data.entries:
     if "abstract" in fieldsDict.keys():
         fieldsDict.pop('abstract')
     if "doi" in fieldsDict.keys():
-        fieldsDict['html'] = fieldsDict['doi']
+        fieldsDict['html'] = "https://doi.org/" + fieldsDict['doi']
     if "keywords" in fieldsDict.keys():
         fieldsDict['preview'] = fieldsDict['keywords']
         fieldsDict.pop('keywords')
