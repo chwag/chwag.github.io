@@ -9,6 +9,7 @@ importance: 1
 category: PhD
 projects: [cfps]
 degree: MSc.
+link: people/christophWagner/
 ---
 
 <div class="row">
