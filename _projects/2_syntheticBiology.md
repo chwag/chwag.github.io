@@ -7,20 +7,6 @@ importance: 1
 category: work
 ---
 
-<div class="container">
-  <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/textImages/chemostat0.JPG" title="A microchemostat" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/textImages/emprRG_v1.png" title="Self-replicator model" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/textImages/20230811_hm_DmDr.png" title="A parameter exploration" class="img-fluid rounded z-depth-1" style="margin-top: auto" %}
-    </div>
-  </div>
-</div>
-
 Synthetic biology explores the design and construction of biological components, both for understanding life's
 fundamental principles and applying them in biotechnology. Within this domain, our group is currently engaged in two
 areas:
@@ -34,6 +20,20 @@ insights into hallmarks of self-regeneration underpinning living systems.
 <div>
   <span> Currently working on this: </span>
   <li class="tab"><a href="/people/christophWagner/">Christoph Wagner</a></li>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+        {% include figure.liquid loading="eager" path="assets/img/projects/textImages/chemostat0.jpg" title="A microchemostat" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col">
+        {% include figure.liquid loading="eager" path="assets/img/projects/textImages/emprRG_v1.png" title="Self-replicator model" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col" style="display: flex; flex-direction: column; flex: 1;">
+        {% include figure.liquid loading="eager" path="assets/img/projects/textImages/20230811_hm_DmDr.png" title="A parameter exploration" class="img-fluid rounded z-depth-1" style="margin-top: auto" %}
+    </div>
+  </div>
 </div>
 
 ---
