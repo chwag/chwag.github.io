@@ -54,6 +54,9 @@
           {% endif %}
         "
       {% endif %}
+      {% if include.style %}
+        style="{{ include.alt }}"
+      {% endif %}
       {% if include.alt %}
         alt="{{ include.alt }}"
       {% endif %}
