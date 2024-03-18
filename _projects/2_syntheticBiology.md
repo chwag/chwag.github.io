@@ -22,13 +22,13 @@ insights into hallmarks of self-regeneration underpinning living systems.
   <li class="tab"><a href="/people/christophWagner/">Christoph Wagner</a></li>
 </div>
 
-<div class="container">
+<div class="container" style="margin-top: 20px">
   <div class="row">
     <div class="col">
         {% include figure.liquid loading="eager" path="assets/img/projects/textImages/chemostat0.jpg" title="A microchemostat" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col">
-        {% include figure.liquid loading="eager" path="assets/img/projects/textImages/emprRG_v1.png" title="Self-replicator model" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/textImages/emprRG_v1.webp" title="Self-replicator model" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col" style="display: flex; flex-direction: column; flex: 1;">
         {% include figure.liquid loading="eager" path="assets/img/projects/textImages/20230811_hm_DmDr.png" title="A parameter exploration" class="img-fluid rounded z-depth-1" style="margin-top: auto" %}
