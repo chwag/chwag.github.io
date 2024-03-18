@@ -3,7 +3,7 @@ layout: page
 title: Synthetic biology
 description: Understanding and optimising synthetic biological systems
 img: assets/img/projects/coverImages/synBio_cropped.jpg
-importance: 1
+importance: 2
 category: work
 ---
 
