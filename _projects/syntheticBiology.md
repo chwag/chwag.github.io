@@ -17,15 +17,23 @@ We develop and analyse computational models to probe conditions that drive self-
 expression systems. We aim to both improve the efficiency and sustainability of protein production and gain deeper
 insights into hallmarks of self-regeneration underpinning living systems.
 
+<!-- This automatic list works but the GitHub Actions link-check throws ugly error, likely because the page checks for a
+link that does not exist yet. Therefore I'll go with manual lists for now.
 <div>
   <span> Currently working on this: </span>
   {%- for person in site.people -%}
     {%- for project in person.projects -%}
       {%- if "cfps" == project -%}
-        <li class="tab"><a href="{{ person.link | site.url }}">{{ person.title }}</a></li>
+        <li class="tab"><a href="{{ person.url }}">{{ person.title }}</a></li>
       {%- endif -%}
     {%- endfor -%}
   {%- endfor -%}
+</div>
+-->
+
+<div>
+  <span> Currently working on this: </span>
+  <li class="tab"><a href="/people/christophWagner/">Christoph Wagner</a></li>
 </div>
 
 <div class="container" style="margin-top: 20px">
