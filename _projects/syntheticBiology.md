@@ -22,7 +22,7 @@ insights into hallmarks of self-regeneration underpinning living systems.
   {%- for person in site.people -%}
     {%- for project in person.projects -%}
       {%- if "cfps" == project -%}
-        <li class="tab"><a href="{{ person.url | size.url }}">{{ person.title }}</a></li>
+        <li class="tab"><a href="{{ person.url | site.url }}">{{ person.title }}</a></li>
       {%- endif -%}
     {%- endfor -%}
   {%- endfor -%}
