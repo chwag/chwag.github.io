@@ -8,13 +8,16 @@ middle_name: Yeong
 last_name: Weisse
 email:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Virtual domain of our splendid computation team in the beautiful Edinburgh
+  The Biomedical Computation Group led by Dr. Andrea Weisse at the University of Edinburgh.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: > 
+  biomedical computation group, andrea weisse, mechanistic, computation, amr, antimicrobial resistance, biology, 
+  biochemistry, bioinformatics, mathematics, machine learning, university of edinburgh, engineering biology, bacterial 
+  growth, synthetic biology, health data science, research
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: "bcg_ico.png" # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://chwag.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -103,7 +106,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  For any enquiries, please reach out by mail at andrea[dot]weisse[at]ed.ac.uk
+  For any enquiries, please reach out by e-mail at andrea[dot]weisse[at]ed.ac.uk
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
