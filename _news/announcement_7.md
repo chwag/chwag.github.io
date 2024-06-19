@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2024-05-22 20:40:00-0800
+date: 2024-05-14 20:40:00-0800
 inline: true
 related_posts: false
 ---
 
-Hollie's preprint on the role of RNA repair in antibiotic resistance was just released 
-[on bioRxiv](https://www.biorxiv.org/content/10.1101/2024.05.20.594959v1.full.pdf+html). Here's to many more!
+Elena gave an awesome talk at the [EPCP Young Scholars group](https://principlescellphysiology.org/scholars.html) about 
+Mechanistic Insights of Antibiotic Effect on Bacterial Physiology & Growth.
