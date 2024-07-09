@@ -1262,7 +1262,7 @@ swiper-container {
   padding-top: 60%;
 }
 
-.pic-ctn > img {
+.landscape {
   position: absolute;
   top: 0;
   left: calc(50% - 40%);
@@ -1271,7 +1271,7 @@ swiper-container {
   animation: display 15s infinite;
 }
 
-.pic-ctn > portrait {
+.portrait {
   position: absolute;
   top: 0;
   left: calc(50% - 40%);
@@ -1280,6 +1280,7 @@ swiper-container {
   animation: display 15s infinite;
 }
 
+// :nth-child() matches elements based on the indexes of the elements in the child list of their parents
 img:nth-child(2) {
   animation-delay: 5s;
 }
