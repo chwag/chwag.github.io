@@ -6,7 +6,7 @@
       <excludeFolder url="file://$MODULE_DIR$/venv_WAD" />
       <excludeFolder url="file://$MODULE_DIR$/venv_RLB" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.11 (chwag.github.io)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.10 (chwag.github.io) (2)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
