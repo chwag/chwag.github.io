@@ -1262,11 +1262,20 @@ swiper-container {
   padding-top: 60%;
 }
 
-.pic-ctn > img {
+.pic-ctn > landscape {
   position: absolute;
   top: 0;
   left: calc(50% - 40%);
   width: 80%;
+  opacity: 0;
+  animation: display 15s infinite;
+}
+
+.pic-ctn > portrait {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 40%);
+  height: 50%;
   opacity: 0;
   animation: display 15s infinite;
 }
