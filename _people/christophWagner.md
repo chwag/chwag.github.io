@@ -36,10 +36,11 @@ articles on my blog and sometimes running around in circles.
         class="img-fluid rounded z-depth-1" 
       %}
     </div>
-    <div class="row text-end">
+    <div class="row text-end font-monospace lh-base">
+      <p class="text-end font-monospace lh-base">
       King's buildings campus <br>
       Waddington 1, Office 2.11 <br>
-      christoph.wagner(at)ed.ac.uk
+      christoph.wagner(at)ed.ac.uk </p>
     </div>
   </div>
 </div>
