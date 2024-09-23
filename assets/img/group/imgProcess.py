@@ -1,7 +1,7 @@
 import os, sys, glob
 from PIL import Image
 
-infiles = glob.glob('*.png') + glob.glob('*.jpg')
+infiles = glob.glob('*.png') + glob.glob('*.jpg') + glob.glob('*.jfif')
 for infile in infiles:
     if "_reduced" not in infile:
         try:

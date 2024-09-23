@@ -28,11 +28,18 @@ articles on my blog and sometimes running around in circles.
     </p>
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    {% 
-      include figure.liquid 
-      path="assets/img/profiles/christophWagner_cropped.png" 
-      title="Christoph Wagner" 
-      class="img-fluid rounded z-depth-1" 
-    %}
+    <div class="row">
+      {% 
+        include figure.liquid 
+        path="assets/img/profiles/christophWagner_cropped.png" 
+        title="Christoph Wagner" 
+        class="img-fluid rounded z-depth-1" 
+      %}
+    </div>
+    <div class="row">
+      King's buildings campus <br>
+      Waddington 1, Office 2.11 <br>
+      christoph.wagner(at)ed.ac.uk
+    </div>
   </div>
 </div>

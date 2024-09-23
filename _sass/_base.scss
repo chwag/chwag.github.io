@@ -1274,8 +1274,8 @@ swiper-container {
 .portrait {
   position: absolute;
   top: 0;
-  left: calc(50% - 22%);
-  width: 46%;
+  left: calc(50% - 22.5%);
+  width: 45%;
   opacity: 0;
   animation: display 15s infinite;
 }
