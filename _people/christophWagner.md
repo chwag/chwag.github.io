@@ -36,8 +36,8 @@ articles on my blog and sometimes running around in circles.
         class="img-fluid rounded z-depth-1" 
       %}
     </div>
-    <div class="row">
-      <p class="float-right">
+    <div class="d-flex flex-row justify-content-end">
+      <p>
       King's buildings campus <br>
       Waddington 1, Office 2.11 <br>
       christoph.wagner(at)ed.ac.uk </p>
