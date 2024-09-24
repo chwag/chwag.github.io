@@ -36,8 +36,8 @@ articles on my blog and sometimes running around in circles.
         class="img-fluid rounded z-depth-1" 
       %}
     </div>
-    <div class="row text-end font-monospace lh-base">
-      <p class="text-end font-monospace lh-base">
+    <div class="row">
+      <p style="text-align:right; font-family:monospace; line-height:200%">
       King's buildings campus <br>
       Waddington 1, Office 2.11 <br>
       christoph.wagner(at)ed.ac.uk </p>
