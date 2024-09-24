@@ -4,7 +4,7 @@ title: Malachy McEvoy
 firstNames: Malachy
 surnames: McEvoy
 description: Honours student
-img: 
+img: assets/img/profiles/malachyMcEvoy_cropped.jpg
 importance: 1
 category: Honours
 projects: [ar]
