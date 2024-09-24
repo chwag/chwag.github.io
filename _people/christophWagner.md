@@ -37,7 +37,7 @@ articles on my blog and sometimes running around in circles.
       %}
     </div>
     <div class="d-flex flex-row justify-content-end">
-      <p>
+      <p style="text-align:right; font-family:monospace; line-height:200%">
       King's buildings campus <br>
       Waddington 1, Office 2.11 <br>
       christoph.wagner(at)ed.ac.uk </p>
