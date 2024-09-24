@@ -25,11 +25,19 @@ doorstep in Edinburgh! 
     </p>
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    {% 
-      include figure.liquid 
-      path="assets/img/profiles/hollieHindley_cropped.png" 
-      title="Hollie Hindley" 
-      class="img-fluid rounded z-depth-1" 
-    %}
+    <div class="row">
+      {% 
+        include figure.liquid 
+        path="assets/img/profiles/hollieHindley_cropped.png" 
+        title="Hollie Hindley" 
+        class="img-fluid rounded z-depth-1" 
+      %}
+    </div>
+    <div class="d-flex flex-row justify-content-end">
+      <p style="text-align:right; font-family:monospace; line-height:200%">
+      King's Buildings campus <br>
+      C. H. Waddington Building, Office 2.11 <br>
+      h.j.hindley(at)sms.ed.ac.uk </p>
+    </div>
   </div>
 </div>

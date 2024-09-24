@@ -27,11 +27,19 @@ the goal of creating a tool to support the design of antibiotic combination ther
     </p>
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    {% 
-      include figure.liquid 
-      path="assets/img/profiles/elenaGarcia_cropped.png" 
-      title="Elena Pascual Garcia" 
-      class="img-fluid rounded z-depth-1" 
-    %}
+    <div class="row">
+      {% 
+        include figure.liquid 
+        path="assets/img/profiles/elenaGarcia_cropped.png" 
+        title="Elena Pascual Garcia" 
+        class="img-fluid rounded z-depth-1" 
+      %}
+    </div>
+    <div class="d-flex flex-row justify-content-end">
+      <p style="text-align:right; font-family:monospace; line-height:200%">
+      University of Potsdam <br>
+      Institute of Mathematics, Office 2.09.2.13 <br>
+      pascualgarcia(at)uni-potsdam.de </p>
+    </div>
   </div>
 </div>

@@ -19,11 +19,19 @@ degree: Dr.
     </p>
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    {% 
-      include figure.liquid 
-      path="assets/img/profiles/andreaWeisse_cropped.png" 
-      title="Andrea Weisse" 
-      class="img-fluid rounded z-depth-1"
-    %}
+    <div class="row">
+      {% 
+        include figure.liquid 
+        path="assets/img/profiles/andreaWeisse_cropped.png" 
+        title="Andrea Weisse" 
+        class="img-fluid rounded z-depth-1" 
+      %}
+    </div>
+    <div class="d-flex flex-row justify-content-end">
+      <p style="text-align:right; font-family:monospace; line-height:200%">
+      Central campus <br>
+      Informatics forum, IF-1.29 <br>
+      andrea.weisse(at)ed.ac.uk </p>
+    </div>
   </div>
 </div>
