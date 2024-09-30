@@ -1,55 +1,375 @@
 
-@article{terradot2018,
-	title = {Survival of the {Fattest}: {Evolutionary} {Trade}-offs in {Cellular} {Resource} {Storage}},
-	volume = {335},
-	issn = {15710661},
-	shorttitle = {Survival of the {Fattest}},
-	url = {https://linkinghub.elsevier.com/retrieve/pii/S1571066118300136},
-	doi = {10.1016/j.entcs.2018.03.010},
+@inproceedings{weisse2006,
+	title = {Adaptive approach for modelling variability in pharmacokinetics},
+	isbn = {3-540-45767-4},
+	abstract = {We present an improved adaptive approach for studying systems of ODEs affected by parameter variability and state space uncertainty. Our approach is based on a reformulation of the ODE problem as a transport problem of a probability density describing the evolution of the ensemble of systems in time. The resulting multidimensional problem is solved by representing the probability density w.r.t. an adaptively chosen Galerkin ansatz space of Gaussian densities. Due to our improvements in adaptivity control, we substantially improved the overall performance of the original algorithm and moreover inherited to the numerical scheme the theoretical property that the number of Gaussian distributions remains constant for linear ODEs. We illustrate the approach in application to dynamical systems describing the pharmacokinetics of drugs and xenobiotics, where variability in physiological parameters is important to be considered.},
+	booktitle = {{CompLife}},
+	author = {Weiße, Andrea Y and Horenko, Illia and Huisinga, Wilhelm},
+	year = {2006},
+	keywords = {weisse2006.png},
+	pages = {194--204},
+}
+
+@incollection{perkins2012,
+	title = {3. {Chance} and memory},
+	isbn = {978-1-4398-2722-2},
+	booktitle = {Quantitative {Biology}: {From} {Molecular} to {Cellular} {Systems}},
+	publisher = {CRC Press},
+	author = {Perkins, Theodore J and Weiße, Andrea Y and Swain, Peter S},
+	year = {2012},
+	keywords = {perkins2012.png},
+	pages = {1--22},
+}
+
+@inproceedings{weisse2010b,
+	title = {Global sensitivity analysis of {ODEs} via the solution of the associated {Fokker}-{Planck} equation},
+	booktitle = {Proceedings of the 6th {Workshop} on {Computation} of {Biochemical} {Pathways} and {Genetic} {Networks}},
+	publisher = {Logos Verlag Berlin},
+	author = {Weiße, Andrea Y and Huisinga, Wilhelm},
+	year = {2010},
+	pages = {43--52},
+}
+
+@inproceedings{weisse2015b,
+	title = {Quantifying host-circuit interactions with a mechanistic chassis model},
+	booktitle = {Synthetic {Biology}: {Engineering}, {Evolution}, and {Design} {Conference} 2015, {SEED} 2015},
+	publisher = {AIChE},
+	author = {Weiße, Andrea},
+	year = {2015},
+	pages = {40--49},
+}
+
+@article{weisse2015a,
+	title = {Mechanistic links between cellular trade-offs, gene expression, and growth},
+	volume = {112},
+	issn = {0027-8424, 1091-6490},
+	url = {https://pnas.org/doi/full/10.1073/pnas.1416533112},
+	doi = {10.1073/pnas.1416533112},
+	abstract = {Significance
+            Cells have finite resources. Committing resources to one task therefore reduces the amount of resources available to others. These trade-offs are often overlooked but potentially modify all cellular processes. Building a mathematical cell model that respects such trade-offs and describes the mechanisms of protein synthesis and how cells extract resources from their environment, we quantitatively recover the typical behavior of an individual growing cell and of a population of cells. As trade-offs are experienced by all cells and because growth largely determines cellular fitness, a predictive understanding of how biochemical processes affect others and affect growth is important for diverse applications, such as the use of microbes for biotechnology, the inhibition of antibiotic resistance, and the growth of cancers.
+          , 
+            Intracellular processes rarely work in isolation but continually interact with the rest of the cell. In microbes, for example, we now know that gene expression across the whole genome typically changes with growth rate. The mechanisms driving such global regulation, however, are not well understood. Here we consider three trade-offs that, because of limitations in levels of cellular energy, free ribosomes, and proteins, are faced by all living cells and we construct a mechanistic model that comprises these trade-offs. Our model couples gene expression with growth rate and growth rate with a growing population of cells. We show that the model recovers Monod’s law for the growth of microbes and two other empirical relationships connecting growth rate to the mass fraction of ribosomes. Further, we can explain growth-related effects in dosage compensation by paralogs and predict host–circuit interactions in synthetic biology. Simulating competitions between strains, we find that the regulation of metabolic pathways may have evolved not to match expression of enzymes to levels of extracellular substrates in changing environments but rather to balance a trade-off between exploiting one type of nutrient over another. Although coarse-grained, the trade-offs that the model embodies are fundamental, and, as such, our modeling framework has potentially wide application, including in both biotechnology and medicine.},
+	language = {en},
+	number = {9},
+	urldate = {2023-05-25},
+	journal = {Proceedings of the National Academy of Sciences},
+	author = {Weiße, Andrea Y. and Oyarzún, Diego A. and Danos, Vincent and Swain, Peter S.},
+	month = mar,
+	year = {2015},
+	keywords = {weisse2015a.png},
+}
+
+@techreport{myall2021a,
+	type = {preprint},
+	title = {Characterising contact in disease outbreaks via a network model of spatial-temporal proximity},
+	url = {http://medrxiv.org/lookup/doi/10.1101/2021.04.07.21254497},
+	abstract = {ABSTRACT
+          Contact tracing is a key tool in epidemiology to identify and control outbreaks of infectious diseases. Existing contact tracing methodologies produce contact maps of individuals based on a binary definition of contact which can be hampered by missing data and indirect contacts. Here, we present a Spatial-temporal Epidemiological Proximity (StEP) model to recover contact maps in disease outbreaks based on movement data. The StEP model accounts for imperfect data by considering probabilistic contacts between individuals based on spatial-temporal proximity of their movement trajectories, creating a robust movement network despite possible missing data and unseen transmission routes. Using real-world data we showcase the potential of StEP for contact tracing with outbreaks of multidrug-resistant bacteria and COVID-19 in a large hospital group in London, UK. In addition to the core structure of contacts that can be recovered using traditional methods of contact tracing, the StEP model reveals missing contacts that connect seemingly separate outbreaks. Comparison with genomic data further confirmed that these recovered contacts indeed improve characterisation of disease transmission and so highlights how the StEP framework can inform effective strategies of infection control and prevention.},
 	language = {en},
 	urldate = {2023-05-25},
-	journal = {Electronic Notes in Theoretical Computer Science},
-	author = {Terradot, Guillaume and Beica, Andreea and Weiße, Andrea and Danos, Vincent},
+	institution = {Epidemiology},
+	author = {Myall, Ashleigh and Peach, Robert L. and Wan, Yu and Mookerjee, Siddharth and Jauneikaite, Elita and Bolt, Frankie and Price, James and Davies, Frances and Weiße, Andrea Y. and Holmes, Alison and Barahona, Mauricio},
 	month = apr,
-	year = {2018},
-	keywords = {terradot2018.png},
-	pages = {91--112},
+	year = {2021},
+	keywords = {myall2021a.jpg},
 }
 
-@article{thomas2018,
-	title = {Sources, propagation and consequences of stochasticity in cellular growth},
-	volume = {9},
-	issn = {2041-1723},
-	url = {https://www.nature.com/articles/s41467-018-06912-9},
-	doi = {10.1038/s41467-018-06912-9},
-	abstract = {Abstract
-            Growth impacts a range of phenotypic responses. Identifying the sources of growth variation and their propagation across the cellular machinery can thus unravel mechanisms that underpin cell decisions. We present a stochastic cell model linking gene expression, metabolism and replication to predict growth dynamics in single bacterial cells. Alongside we provide a theory to analyse stochastic chemical reactions coupled with cell divisions, enabling efficient parameter estimation, sensitivity analysis and hypothesis testing. The cell model recovers population-averaged data on growth-dependence of bacterial physiology and how growth variations in single cells change across conditions. We identify processes responsible for this variation and reconstruct the propagation of initial fluctuations to growth and other processes. Finally, we study drug-nutrient interactions and find that antibiotics can both enhance and suppress growth heterogeneity. Our results provide a predictive framework to integrate heterogeneous data and draw testable predictions with implications for antibiotic tolerance, evolutionary and synthetic biology.},
-	language = {en},
-	number = {1},
-	urldate = {2023-05-25},
-	journal = {Nature Communications},
-	author = {Thomas, Philipp and Terradot, Guillaume and Danos, Vincent and Weiße, Andrea Y.},
-	month = oct,
-	year = {2018},
-	keywords = {thomas2018.png},
-	pages = {4528},
-}
-
-@article{weisse2016,
-	title = {Signaling {Tug}-of-{War} {Delivers} the {Whole} {Message}},
-	volume = {3},
-	issn = {24054712},
-	url = {https://linkinghub.elsevier.com/retrieve/pii/S2405471216303672},
-	doi = {10.1016/j.cels.2016.11.003},
+@article{oyarzun2013,
+	title = {Cumulative {Signal} {Transmission} in {Nonlinear} {Reaction}-{Diffusion} {Networks}},
+	volume = {8},
+	issn = {1932-6203},
+	url = {https://dx.plos.org/10.1371/journal.pone.0062834},
+	doi = {10.1371/journal.pone.0062834},
 	language = {en},
 	number = {5},
 	urldate = {2023-05-25},
-	journal = {Cell Systems},
-	author = {Weiße, Andrea Y. and Mannan, Ahmad A. and Oyarzún, Diego A.},
-	month = nov,
-	year = {2016},
-	keywords = {weisse2016.jpg},
-	pages = {414--416},
+	journal = {PLoS ONE},
+	author = {Oyarzún, Diego A. and López-Caamal, Fernando and García, Míriam R. and Middleton, Richard H. and Weiße, Andrea Y.},
+	editor = {Kurths, Jürgen},
+	month = may,
+	year = {2013},
+	keywords = {oyarzun2013.png},
+	pages = {e62834},
+}
+
+@article{otter2020,
+	title = {Detecting carbapenemase-producing {Enterobacterales} ({CPE}): an evaluation of an enhanced {CPE} infection control and screening programme in acute care},
+	volume = {75},
+	issn = {0305-7453, 1460-2091},
+	shorttitle = {Detecting carbapenemase-producing {Enterobacterales} ({CPE})},
+	url = {https://academic.oup.com/jac/article/75/9/2670/5849541},
+	doi = {10.1093/jac/dkaa192},
+	abstract = {Abstract
+            
+              Objectives
+              The transmission of carbapenemase-producing Enterobacterales (CPE) poses an increasing healthcare challenge. A range of infection prevention activities, including screening and contact precautions, are recommended by international and national guidelines. We evaluated the introduction of an enhanced screening programme in a multisite London hospital group.
+            
+            
+              Methods
+              In June 2015, an enhanced CPE policy was launched in response to a local rise in CPE detection. This increased infection prevention measures beyond the national recommendations, with enhanced admission screening, contact tracing and environmental disinfection, improved laboratory protocols and staff/patient education. We report the CPE incidence and trends of CPE in screening and clinical cultures and the adoption of enhanced CPE screening. All non-duplicate CPE isolates identified between April 2014 and March 2018 were included.
+            
+            
+              Results
+              The number of CPE screens increased progressively, from 4530 in July 2015 to 10 589 in March 2018. CPE detection increased from 18 patients in July 2015 (1.0 per 1000 admissions) to 50 patients in March 2018 (2.7 per 1000 admissions). The proportion of CPE-positive screening cultures remained at approximately 0.4\% throughout, suggesting that whilst the CPE carriage rate was unchanged, carrier identification increased. Also, 123 patients were identified through positive CPE clinical cultures over the study period; there was no significant change in the rate of CPE from clinical cultures per 1000 admissions (P = 0.07).
+            
+            
+              Conclusions
+              Our findings suggest that whilst the enhanced screening programme identified a previously undetected reservoir of CPE colonization in our patient population, the rate of detection of CPE in clinical cultures did not increase.},
+	language = {en},
+	number = {9},
+	urldate = {2023-05-25},
+	journal = {Journal of Antimicrobial Chemotherapy},
+	author = {Otter, Jonathan A and Mookerjee, Siddharth and Davies, Frances and Bolt, Frances and Dyakova, Eleonora and Shersing, Yeeshika and Boonyasiri, Adhiratha and Weiße, Andrea Y and Gilchrist, Mark and Galletly, Tracey J and Brannigan, Eimear T and Holmes, Alison H},
+	month = sep,
+	year = {2020},
+	keywords = {otter2020.jpg},
+	pages = {2670--2676},
+}
+
+@article{price2021,
+	title = {Development and {Delivery} of a {Real}-time {Hospital}-onset {COVID}-19 {Surveillance} {System} {Using} {Network} {Analysis}},
+	issn = {1058-4838, 1537-6591},
+	url = {https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa892/5868508},
+	doi = {10.1093/cid/ciaa892},
+	abstract = {Abstract
+            
+              Background
+              Understanding nosocomial acquisition, outbreaks, and transmission chains in real time will be fundamental to ensuring infection-prevention measures are effective in controlling coronavirus disease 2019 (COVID-19) in healthcare. We report the design and implementation of a hospital-onset COVID-19 infection (HOCI) surveillance system for an acute healthcare setting to target prevention interventions.
+            
+            
+              Methods
+              The study took place in a large teaching hospital group in London, United Kingdom. All patients tested for SARS-CoV-2 between 4 March and 14 April 2020 were included. Utilizing data routinely collected through electronic healthcare systems we developed a novel surveillance system for determining and reporting HOCI incidence and providing real-time network analysis. We provided daily reports on incidence and trends over time to support HOCI investigation and generated geotemporal reports using network analysis to interrogate admission pathways for common epidemiological links to infer transmission chains. By working with stakeholders the reports were co-designed for end users.
+            
+            
+              Results
+              Real-time surveillance reports revealed changing rates of HOCI throughout the course of the COVID-19 epidemic, key wards fueling probable transmission events, HOCIs overrepresented in particular specialties managing high-risk patients, the importance of integrating analysis of individual prior pathways, and the value of co-design in producing data visualization. Our surveillance system can effectively support national surveillance.
+            
+            
+              Conclusions
+              Through early analysis of the novel surveillance system we have provided a description of HOCI rates and trends over time using real-time shifting denominator data. We demonstrate the importance of including the analysis of patient pathways and networks in characterizing risk of transmission and targeting infection-control interventions.},
+	language = {en},
+	urldate = {2023-05-25},
+	journal = {Clinical Infectious Diseases},
+	author = {Price, James Richard and Mookerjee, Siddharth and Dyakova, Eleonora and Myall, Ashleigh and Leung, Wendy and Weiße, Andrea Yeong and Shersing, Yeeshika and Brannigan, Eimear Therese and Galletly, Tracey and Muir, David and Randell, Paul and Davies, Frances and Bolt, Frances and Barahona, Mauricio and Otter, Jonathan Ashley and Holmes, Alison H},
+	month = jul,
+	year = {2020},
+	keywords = {price2021.jpg},
+	pages = {ciaa892},
+}
+
+@article{weisse2011,
+	title = {Error-controlled global sensitivity analysis of ordinary differential equations},
+	volume = {230},
+	issn = {00219991},
+	url = {https://linkinghub.elsevier.com/retrieve/pii/S0021999111003159},
+	doi = {10.1016/j.jcp.2011.05.011},
+	language = {en},
+	number = {17},
+	urldate = {2023-05-25},
+	journal = {Journal of Computational Physics},
+	author = {Weiße, Andrea Y. and Huisinga, Wilhelm},
+	month = jul,
+	year = {2011},
+	pages = {6824--6842},
+}
+
+@phdthesis{weisse2009,
+	title = {Adaptive {Dichtepropagation} mit {Approximate} {ApproximationsGlobal} sensitivity analysis of ordinary differential equations: adaptive density propagation using approximate approximations},
+	shorttitle = {Adaptive {Dichtepropagation} mit {Approximate} {ApproximationsGlobal} sensitivity analysis of ordinary differential equations},
+	url = {https://refubium.fu-berlin.de/handle/fub188/9586},
+	abstract = {Gewöhnliche Differentialgleichungen nehmen eine essentielle Stellung in der mathematischen Modellierung ein. Als Voraussetzung für zuverlässige Resultate muss sowohl in der Modellbildung als auch in der Analyse des Modells der Einfluss von Unsicherheit und/oder Variabilität in den Eingabedaten berücksichtigt werden. Mit Hilfe von Sensitivitätsanalyse wird untersucht, wie sich Unsicherheit und Variabilität durch die Modelldynamik ausbreiten und sich somit auf die Ausgabedaten auswirken. Globale Sensitivitätsanalyse untersucht die Auswirkungen von Abweichungen in den Eingabedaten, die sich möglicherweise über den gesamten Zustandsraum erstrecken. Zwei Probleme, die die globale Analyse erschweren, sind hohe Dimensionen und eine Kontrolle der Genauigkeit, mit der die Ausgabeunsicherheit geschätzt wird. Die meisten numerischen Ansätze konzentrieren sich derzeitig darauf, die Analyse von hoch- dimensionalen Problemen effizienter zu gestalten. Inwiefern die geschätzte Ausgabeunsicherheit dabei der tatsächlichen Ausgabeunsicherheit entspricht, bleibt jedoch meist unklar. In dieser Arbeit wird ein neuer Ansatz zur globalen Sensitivitätsanalyse von gewöhnlichen Differentialgleichungen vorgestellt. Hauptmerkmal dieses Ansatzes ist eine adaptive Schätzung der Ausgabeunsicherheit, bei der der Approximationsfehler automatisch kontrolliert wird. Dafür bedienen wir uns einer äquivalenten Formulierung des Problems, in der die zeitliche Entwicklung der Wahrscheinlichkeitsdichte der unsicheren Zustandsvariablen durch eine partielle Differentialgleichung beschrieben wird. Zur Lösung dieser Differentialgleichung kombinieren wir neue Ansätze aus Numerik und Approximationstheorie. Die hier vorgestellte Methode kontrolliert den Approximationsfehler, indem sowohl die Zeit- als auch die Ortsdiskretisierung angepasst wird. Wir verwenden ein Rothe-Verfahren, das einen angemessenen Kontext für die separate Schätzung von Zeit- und Ortsfehlern schafft, so dass die Diskretisierung entsprechend adaptiert werden kann. Für die Ortsdiskretisierung verwenden wir Approximate Approximations, eine neu eingeführte Approximationsmethode, die hier zum ersten Mal im Rahmen eines adaptiven Rothe-Verfahrens eingesetzt wird. Wir analysieren die Konvergenz des Verfahrens und untersuchen, wie sich Approximate Approximations für die adaptive Lösung der Ortsprobleme eignen. Wir zeigen, dass das Verfahren konvergiert. Darüber hinaus geben die theoretischen Resultate direkt Aufschluss darüber, wie eine effiziente Implementierung realisiert werden kann. Die Ergebnisse werden anhand von numerischen Beispielen illustriert, die auch zeigen, dass das Verfahren eine hohe Genauigkeit bei der Schätzung der Ausgabeunsicherheiten erzielt. Desweiteren erweisen sich Approximate Approximations als vorteilhaft innerhalb des adaptiven Verfahrens, da sowohl Fehlerschätzer als auch Approximationen hoher Ordnung zu vertretbaren Rechenzeiten verfügbar sind. Aktuelle Fortschritte in der Theorie von Approximate Approximations, beruhend auf einer gitterfreien Diskretisierung, lassen außerdem darauf hoffen, dass sich das in dieser Arbeit vorgestellte Konzept auch auf höher-dimensionale Probleme übertragen lässt.},
+	urldate = {2023-05-25},
+	school = {Freie Universität Berlin},
+	author = {Weiße, Andrea Yeong},
+	collaborator = {Universitätsbibliothek Der FU Berlin and Universitätsbibliothek Der FU Berlin},
+	year = {2009},
+	keywords = {weisse2009.png},
+}
+
+@article{nikolados2019,
+	title = {Growth {Defects} and {Loss}-of-{Function} in {Synthetic} {Gene} {Circuits}},
+	volume = {8},
+	issn = {2161-5063, 2161-5063},
+	url = {https://pubs.acs.org/doi/10.1021/acssynbio.8b00531},
+	doi = {10.1021/acssynbio.8b00531},
+	language = {en},
+	number = {6},
+	urldate = {2023-05-25},
+	journal = {ACS Synthetic Biology},
+	author = {Nikolados, Evangelos-Marios and Weiße, Andrea Y. and Ceroni, Francesca and Oyarzún, Diego A.},
+	month = jun,
+	year = {2019},
+	keywords = {nikolados2019.jpg},
+	pages = {1231--1240},
+}
+
+@article{myall2022b,
+	title = {Improved contact tracing using network analysis and spatial-temporal proximity},
+	volume = {116},
+	issn = {12019712},
+	url = {https://linkinghub.elsevier.com/retrieve/pii/S1201971221009395},
+	doi = {10.1016/j.ijid.2021.12.047},
+	language = {en},
+	urldate = {2023-05-25},
+	journal = {International Journal of Infectious Diseases},
+	author = {Myall, A. and Peach, R. and Wan, Y. and Mookerjee, S. and Jauneikaite, E. and Bolt, F. and Price, J. and Davies, F. and Weisse, A. and Holmes, A.H. and Barahona, M.},
+	month = mar,
+	year = {2022},
+	pages = {S20},
+}
+
+@article{ming2021,
+	title = {Informing antimicrobial management in the context of {COVID}-19: understanding the longitudinal dynamics of {C}-reactive protein and procalcitonin},
+	volume = {21},
+	issn = {1471-2334},
+	shorttitle = {Informing antimicrobial management in the context of {COVID}-19},
+	url = {https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-021-06621-7},
+	doi = {10.1186/s12879-021-06621-7},
+	abstract = {Abstract 
+            
+              Background
+              To characterise the longitudinal dynamics of C-reactive protein (CRP) and Procalcitonin (PCT) in a cohort of hospitalised patients with COVID-19 and support antimicrobial decision-making.
+            
+            
+              Methods
+              Longitudinal CRP and PCT concentrations and trajectories of 237 hospitalised patients with COVID-19 were modelled. The dataset comprised of 2,021 data points for CRP and 284 points for PCT. Pairwise comparisons were performed between: (i) those with or without significant bacterial growth from cultures, and (ii) those who survived or died in hospital.
+            
+            
+              Results
+              CRP concentrations were higher over time in COVID-19 patients with positive microbiology (day 9: 236 vs 123 mg/L, p {\textless} 0.0001) and in those who died (day 8: 226 vs 152 mg/L, p {\textless} 0.0001) but only after day 7 of COVID-related symptom onset. Failure for CRP to reduce in the first week of hospital admission was associated with significantly higher odds of death. PCT concentrations were higher in patients with COVID-19 and positive microbiology or in those who died, although these differences were not statistically significant.
+            
+            
+              Conclusions
+              Both the absolute CRP concentration and the trajectory during the first week of hospital admission are important factors predicting microbiology culture positivity and outcome in patients hospitalised with COVID-19. Further work is needed to describe the role of PCT for co-infection. Understanding relationships of these biomarkers can support development of risk models and inform optimal antimicrobial strategies.},
+	language = {en},
+	number = {1},
+	urldate = {2023-05-25},
+	journal = {BMC Infectious Diseases},
+	author = {Ming, Damien K. and Myall, Ashleigh C. and Hernandez, Bernard and Weiße, Andrea Y. and Peach, Robert L. and Barahona, Mauricio and Rawson, Timothy M. and Holmes, Alison H.},
+	month = dec,
+	year = {2021},
+	keywords = {ming2021.jpg},
+	pages = {932},
+}
+
+@techreport{boonyasiri2021,
+	type = {preprint},
+	title = {Integrated patient network and genomic plasmid analysis reveal a regional, multi-species outbreak of carbapenemase-producing {Enterobacterales} carrying both \textit{bla} $_{\textrm{{IMP}}}$ and \textit{mcr-9} genes},
+	url = {http://medrxiv.org/lookup/doi/10.1101/2021.10.28.21265436},
+	abstract = {Abstract
+          The incidence of carbapenemase-producing Enterobacterales (CPE) is rising globally, yet Imipenemase (IMP) carbapenemases remain relatively rare. This study describes an investigation of the emergence of IMP-encoding CPE amongst diverse Enterobacterales species between 2016 and 2019 in patients across a London regional hospital network.
+          
+            A network analysis approach to patient pathways, using routinely collected electronic health records, identified previously unrecognised contacts between patients who were IMP CPE positive on screening, implying potential bacterial transmission events. Whole genome sequencing of 85 Enterobacterales isolates from these patients revealed that 86\% (73/85) were diverse species (predominantly
+            Klebsiella
+            spp,
+            Enterobacter
+            spp,
+            E. coli
+            ) and harboured an IncHI2 plasmid, which carried both
+            bla
+            IMP
+            and the putative mobile colistin resistance gene
+            mcr-9
+            . Detailed phylogenetic analysis identified two distinct IncHI2 plasmid lineages, A and B, both of which showed significant association with patient movements between four hospital sites and across medical specialities.
+          
+          
+            Combined, our patient network and plasmid analyses demonstrate an interspecies, plasmid-mediated outbreak of
+            bla
+            IMP
+            CPE, which remained unidentified during standard microbiology and infection control investigations. With whole genome sequencing (WGS) technologies and large-data incorporation, the outbreak investigation approach proposed here provides a framework for real-time identification of key factors causing pathogen spread. Analysing outbreaks at the plasmid level reveals that resistance may be wider spread than suspected, allowing more targetted interventions to stop the transmission of resistance within hospital networks.},
+	language = {en},
+	urldate = {2023-05-25},
+	institution = {Infectious Diseases (except HIV/AIDS)},
+	author = {Boonyasiri, Adhiratha and Myall, Ashleigh C. and Wan, Yu and Bolt, Frances and Ledda, Alice and Mookerjee, Siddharth and Weiße, Andrea Y. and Turton, Jane F. and Abbas, Hala and Prakapaite, Ruta and Sabnis, Akshay and Abdolrasouli, Alireza and Malpartida-Cardenas, Kenny and Miglietta, Luca and Donaldson, Hugo and Gilchrist, Mark and Hopkins, Katie L. and Ellington, Matthew J and Otter, Jonathan A. and Larrouy-Maumus, Gerald and Edwards, Andrew M. and Rodriguez-Manzano, Jesus and Didelot, Xavier and Barahona, Mauricio and Holmes, Alison H. and Jauneikaite, Elita and Davies, Frances},
+	month = oct,
+	year = {2021},
+	keywords = {boonyasiri2021.jpg},
+}
+
+@article{myall2021b,
+	title = {Network memory in the movement of hospital patients carrying antimicrobial-resistant bacteria},
+	volume = {6},
+	issn = {2364-8228},
+	url = {https://appliednetsci.springeropen.com/articles/10.1007/s41109-021-00376-5},
+	doi = {10.1007/s41109-021-00376-5},
+	abstract = {Abstract
+            Hospitals constitute highly interconnected systems that bring into contact an abundance of infectious pathogens and susceptible individuals, thus making infection outbreaks both common and challenging. In recent years, there has been a sharp incidence of antimicrobial-resistance amongst healthcare-associated infections, a situation now considered endemic in many countries. Here we present network-based analyses of a data set capturing the movement of patients harbouring antibiotic-resistant bacteria across three large London hospitals. We show that there are substantial memory effects in the movement of hospital patients colonised with antibiotic-resistant bacteria. Such memory effects break first-order Markovian transitive assumptions and substantially alter the conclusions from the analysis, specifically on node rankings and the evolution of diffusive processes. We capture variable length memory effects by constructing a lumped-state memory network, which we then use to identify individually import wards and overlapping communities of wards. We find these wards align closely to known hotspots of transmission and commonly followed pathways patients. Our framework provides a means to focus infection control efforts and cohort outbreaks of healthcare-associated infections.},
+	language = {en},
+	number = {1},
+	urldate = {2023-05-25},
+	journal = {Applied Network Science},
+	author = {Myall, Ashleigh C. and Peach, Robert L. and Weiße, Andrea Y. and Mookerjee, Siddharth and Davies, Frances and Holmes, Alison and Barahona, Mauricio},
+	month = dec,
+	year = {2021},
+	keywords = {myall2021b.jpg},
+	pages = {34},
+}
+
+@incollection{nikolados2021,
+	address = {New York, NY},
+	title = {Prediction of {Cellular} {Burden} with {Host}–{Circuit} {Models}},
+	volume = {2229},
+	isbn = {978-1-07-161031-2 978-1-07-161032-9},
+	url = {https://link.springer.com/10.1007/978-1-0716-1032-9_13},
+	language = {en},
+	urldate = {2023-05-25},
+	booktitle = {Synthetic {Gene} {Circuits}},
+	publisher = {Springer US},
+	author = {Nikolados, Evangelos-Marios and Weiße, Andrea Y. and Oyarzún, Diego A.},
+	editor = {Menolascina, Filippo},
+	year = {2021},
+	keywords = {nikolados2021.jpg},
+	pages = {267--291},
+}
+
+@article{myall2022a,
+	title = {Prediction of hospital-onset {COVID}-19 using networks of patient contact: an observational study},
+	volume = {116},
+	issn = {12019712},
+	shorttitle = {Prediction of hospital-onset {COVID}-19 using networks of patient contact},
+	url = {https://linkinghub.elsevier.com/retrieve/pii/S1201971221011504},
+	doi = {10.1016/j.ijid.2021.12.258},
+	language = {en},
+	urldate = {2023-05-25},
+	journal = {International Journal of Infectious Diseases},
+	author = {Myall, A. and Price, J. and Peach, R. and Abbas, M. and Mookerjee, S. and Ahmad, I. and Ming, D. and Zhu, N.J. and Ramzan, F. and Weisse, A. and Holmes, A.H. and Barahona, M.},
+	month = mar,
+	year = {2022},
+	pages = {S109--S110},
+}
+
+@article{weisse2010a,
+	title = {Quantifying uncertainty, variability and likelihood for ordinary differential equation models},
+	volume = {4},
+	issn = {1752-0509},
+	url = {https://bmcsystbiol.biomedcentral.com/articles/10.1186/1752-0509-4-144},
+	doi = {10.1186/1752-0509-4-144},
+	language = {en},
+	number = {1},
+	urldate = {2023-05-25},
+	journal = {BMC Systems Biology},
+	author = {Weiße, Andrea Y and Middleton, Richard H and Huisinga, Wilhelm},
+	month = dec,
+	year = {2010},
+	keywords = {weisse2010a.png},
+	pages = {144},
+}
+
+@article{karwacki-neisius2013,
+	title = {Reduced {Oct4} {Expression} {Directs} a {Robust} {Pluripotent} {State} with {Distinct} {Signaling} {Activity} and {Increased} {Enhancer} {Occupancy} by {Oct4} and {Nanog}},
+	volume = {12},
+	issn = {19345909},
+	url = {https://linkinghub.elsevier.com/retrieve/pii/S1934590913001598},
+	doi = {10.1016/j.stem.2013.04.023},
+	language = {en},
+	number = {5},
+	urldate = {2023-05-25},
+	journal = {Cell Stem Cell},
+	author = {Karwacki-Neisius, Violetta and Göke, Jonathan and Osorno, Rodrigo and Halbritter, Florian and Ng, Jia Hui and Weiße, Andrea Y. and Wong, Frederick C.K. and Gagliardi, Alessia and Mullin, Nicholas P. and Festuccia, Nicola and Colby, Douglas and Tomlinson, Simon R. and Ng, Huck-Hui and Chambers, Ian},
+	month = may,
+	year = {2013},
+	keywords = {karwacki-neisius2013.jpg},
+	pages = {531--545},
 }
 
 @article{veron2009,
@@ -96,377 +416,57 @@
 	pages = {2705--2710},
 }
 
-@article{karwacki-neisius2013,
-	title = {Reduced {Oct4} {Expression} {Directs} a {Robust} {Pluripotent} {State} with {Distinct} {Signaling} {Activity} and {Increased} {Enhancer} {Occupancy} by {Oct4} and {Nanog}},
-	volume = {12},
-	issn = {19345909},
-	url = {https://linkinghub.elsevier.com/retrieve/pii/S1934590913001598},
-	doi = {10.1016/j.stem.2013.04.023},
+@article{weisse2016,
+	title = {Signaling {Tug}-of-{War} {Delivers} the {Whole} {Message}},
+	volume = {3},
+	issn = {24054712},
+	url = {https://linkinghub.elsevier.com/retrieve/pii/S2405471216303672},
+	doi = {10.1016/j.cels.2016.11.003},
 	language = {en},
 	number = {5},
 	urldate = {2023-05-25},
-	journal = {Cell Stem Cell},
-	author = {Karwacki-Neisius, Violetta and Göke, Jonathan and Osorno, Rodrigo and Halbritter, Florian and Ng, Jia Hui and Weiße, Andrea Y. and Wong, Frederick C.K. and Gagliardi, Alessia and Mullin, Nicholas P. and Festuccia, Nicola and Colby, Douglas and Tomlinson, Simon R. and Ng, Huck-Hui and Chambers, Ian},
-	month = may,
-	year = {2013},
-	keywords = {karwacki-neisius2013.jpg},
-	pages = {531--545},
+	journal = {Cell Systems},
+	author = {Weiße, Andrea Y. and Mannan, Ahmad A. and Oyarzún, Diego A.},
+	month = nov,
+	year = {2016},
+	keywords = {weisse2016.jpg},
+	pages = {414--416},
 }
 
-@article{weisse2010a,
-	title = {Quantifying uncertainty, variability and likelihood for ordinary differential equation models},
-	volume = {4},
-	issn = {1752-0509},
-	url = {https://bmcsystbiol.biomedcentral.com/articles/10.1186/1752-0509-4-144},
-	doi = {10.1186/1752-0509-4-144},
+@article{thomas2018,
+	title = {Sources, propagation and consequences of stochasticity in cellular growth},
+	volume = {9},
+	issn = {2041-1723},
+	url = {https://www.nature.com/articles/s41467-018-06912-9},
+	doi = {10.1038/s41467-018-06912-9},
+	abstract = {Abstract
+            Growth impacts a range of phenotypic responses. Identifying the sources of growth variation and their propagation across the cellular machinery can thus unravel mechanisms that underpin cell decisions. We present a stochastic cell model linking gene expression, metabolism and replication to predict growth dynamics in single bacterial cells. Alongside we provide a theory to analyse stochastic chemical reactions coupled with cell divisions, enabling efficient parameter estimation, sensitivity analysis and hypothesis testing. The cell model recovers population-averaged data on growth-dependence of bacterial physiology and how growth variations in single cells change across conditions. We identify processes responsible for this variation and reconstruct the propagation of initial fluctuations to growth and other processes. Finally, we study drug-nutrient interactions and find that antibiotics can both enhance and suppress growth heterogeneity. Our results provide a predictive framework to integrate heterogeneous data and draw testable predictions with implications for antibiotic tolerance, evolutionary and synthetic biology.},
 	language = {en},
 	number = {1},
 	urldate = {2023-05-25},
-	journal = {BMC Systems Biology},
-	author = {Weiße, Andrea Y and Middleton, Richard H and Huisinga, Wilhelm},
-	month = dec,
-	year = {2010},
-	keywords = {weisse2010a.png},
-	pages = {144},
-}
-
-@inproceedings{weisse2015b,
-	title = {Quantifying host-circuit interactions with a mechanistic chassis model},
-	booktitle = {Synthetic {Biology}: {Engineering}, {Evolution}, and {Design} {Conference} 2015, {SEED} 2015},
-	publisher = {AIChE},
-	author = {Weiße, Andrea},
-	year = {2015},
-	pages = {40--49},
-}
-
-@article{myall2022a,
-	title = {Prediction of hospital-onset {COVID}-19 using networks of patient contact: an observational study},
-	volume = {116},
-	issn = {12019712},
-	shorttitle = {Prediction of hospital-onset {COVID}-19 using networks of patient contact},
-	url = {https://linkinghub.elsevier.com/retrieve/pii/S1201971221011504},
-	doi = {10.1016/j.ijid.2021.12.258},
-	language = {en},
-	urldate = {2023-05-25},
-	journal = {International Journal of Infectious Diseases},
-	author = {Myall, A. and Price, J. and Peach, R. and Abbas, M. and Mookerjee, S. and Ahmad, I. and Ming, D. and Zhu, N.J. and Ramzan, F. and Weisse, A. and Holmes, A.H. and Barahona, M.},
-	month = mar,
-	year = {2022},
-	pages = {S109--S110},
-}
-
-@incollection{nikolados2021,
-	address = {New York, NY},
-	title = {Prediction of {Cellular} {Burden} with {Host}–{Circuit} {Models}},
-	volume = {2229},
-	isbn = {978-1-07-161031-2 978-1-07-161032-9},
-	url = {https://link.springer.com/10.1007/978-1-0716-1032-9_13},
-	language = {en},
-	urldate = {2023-05-25},
-	booktitle = {Synthetic {Gene} {Circuits}},
-	publisher = {Springer US},
-	author = {Nikolados, Evangelos-Marios and Weiße, Andrea Y. and Oyarzún, Diego A.},
-	editor = {Menolascina, Filippo},
-	year = {2021},
-	keywords = {nikolados2021.jpg},
-	pages = {267--291},
-}
-
-@article{myall2021b,
-	title = {Network memory in the movement of hospital patients carrying antimicrobial-resistant bacteria},
-	volume = {6},
-	issn = {2364-8228},
-	url = {https://appliednetsci.springeropen.com/articles/10.1007/s41109-021-00376-5},
-	doi = {10.1007/s41109-021-00376-5},
-	abstract = {Abstract
-            Hospitals constitute highly interconnected systems that bring into contact an abundance of infectious pathogens and susceptible individuals, thus making infection outbreaks both common and challenging. In recent years, there has been a sharp incidence of antimicrobial-resistance amongst healthcare-associated infections, a situation now considered endemic in many countries. Here we present network-based analyses of a data set capturing the movement of patients harbouring antibiotic-resistant bacteria across three large London hospitals. We show that there are substantial memory effects in the movement of hospital patients colonised with antibiotic-resistant bacteria. Such memory effects break first-order Markovian transitive assumptions and substantially alter the conclusions from the analysis, specifically on node rankings and the evolution of diffusive processes. We capture variable length memory effects by constructing a lumped-state memory network, which we then use to identify individually import wards and overlapping communities of wards. We find these wards align closely to known hotspots of transmission and commonly followed pathways patients. Our framework provides a means to focus infection control efforts and cohort outbreaks of healthcare-associated infections.},
-	language = {en},
-	number = {1},
-	urldate = {2023-05-25},
-	journal = {Applied Network Science},
-	author = {Myall, Ashleigh C. and Peach, Robert L. and Weiße, Andrea Y. and Mookerjee, Siddharth and Davies, Frances and Holmes, Alison and Barahona, Mauricio},
-	month = dec,
-	year = {2021},
-	keywords = {myall2021b.jpg},
-	pages = {34},
-}
-
-@article{weisse2015a,
-	title = {Mechanistic links between cellular trade-offs, gene expression, and growth},
-	volume = {112},
-	issn = {0027-8424, 1091-6490},
-	url = {https://pnas.org/doi/full/10.1073/pnas.1416533112},
-	doi = {10.1073/pnas.1416533112},
-	abstract = {Significance
-            Cells have finite resources. Committing resources to one task therefore reduces the amount of resources available to others. These trade-offs are often overlooked but potentially modify all cellular processes. Building a mathematical cell model that respects such trade-offs and describes the mechanisms of protein synthesis and how cells extract resources from their environment, we quantitatively recover the typical behavior of an individual growing cell and of a population of cells. As trade-offs are experienced by all cells and because growth largely determines cellular fitness, a predictive understanding of how biochemical processes affect others and affect growth is important for diverse applications, such as the use of microbes for biotechnology, the inhibition of antibiotic resistance, and the growth of cancers.
-          , 
-            Intracellular processes rarely work in isolation but continually interact with the rest of the cell. In microbes, for example, we now know that gene expression across the whole genome typically changes with growth rate. The mechanisms driving such global regulation, however, are not well understood. Here we consider three trade-offs that, because of limitations in levels of cellular energy, free ribosomes, and proteins, are faced by all living cells and we construct a mechanistic model that comprises these trade-offs. Our model couples gene expression with growth rate and growth rate with a growing population of cells. We show that the model recovers Monod’s law for the growth of microbes and two other empirical relationships connecting growth rate to the mass fraction of ribosomes. Further, we can explain growth-related effects in dosage compensation by paralogs and predict host–circuit interactions in synthetic biology. Simulating competitions between strains, we find that the regulation of metabolic pathways may have evolved not to match expression of enzymes to levels of extracellular substrates in changing environments but rather to balance a trade-off between exploiting one type of nutrient over another. Although coarse-grained, the trade-offs that the model embodies are fundamental, and, as such, our modeling framework has potentially wide application, including in both biotechnology and medicine.},
-	language = {en},
-	number = {9},
-	urldate = {2023-05-25},
-	journal = {Proceedings of the National Academy of Sciences},
-	author = {Weiße, Andrea Y. and Oyarzún, Diego A. and Danos, Vincent and Swain, Peter S.},
-	month = mar,
-	year = {2015},
-	keywords = {weisse2015a.png},
-}
-
-@techreport{boonyasiri2021,
-	type = {preprint},
-	title = {Integrated patient network and genomic plasmid analysis reveal a regional, multi-species outbreak of carbapenemase-producing {Enterobacterales} carrying both \textit{bla} $_{\textrm{{IMP}}}$ and \textit{mcr-9} genes},
-	url = {http://medrxiv.org/lookup/doi/10.1101/2021.10.28.21265436},
-	abstract = {Abstract
-          The incidence of carbapenemase-producing Enterobacterales (CPE) is rising globally, yet Imipenemase (IMP) carbapenemases remain relatively rare. This study describes an investigation of the emergence of IMP-encoding CPE amongst diverse Enterobacterales species between 2016 and 2019 in patients across a London regional hospital network.
-          
-            A network analysis approach to patient pathways, using routinely collected electronic health records, identified previously unrecognised contacts between patients who were IMP CPE positive on screening, implying potential bacterial transmission events. Whole genome sequencing of 85 Enterobacterales isolates from these patients revealed that 86\% (73/85) were diverse species (predominantly
-            Klebsiella
-            spp,
-            Enterobacter
-            spp,
-            E. coli
-            ) and harboured an IncHI2 plasmid, which carried both
-            bla
-            IMP
-            and the putative mobile colistin resistance gene
-            mcr-9
-            . Detailed phylogenetic analysis identified two distinct IncHI2 plasmid lineages, A and B, both of which showed significant association with patient movements between four hospital sites and across medical specialities.
-          
-          
-            Combined, our patient network and plasmid analyses demonstrate an interspecies, plasmid-mediated outbreak of
-            bla
-            IMP
-            CPE, which remained unidentified during standard microbiology and infection control investigations. With whole genome sequencing (WGS) technologies and large-data incorporation, the outbreak investigation approach proposed here provides a framework for real-time identification of key factors causing pathogen spread. Analysing outbreaks at the plasmid level reveals that resistance may be wider spread than suspected, allowing more targetted interventions to stop the transmission of resistance within hospital networks.},
-	language = {en},
-	urldate = {2023-05-25},
-	institution = {Infectious Diseases (except HIV/AIDS)},
-	author = {Boonyasiri, Adhiratha and Myall, Ashleigh C. and Wan, Yu and Bolt, Frances and Ledda, Alice and Mookerjee, Siddharth and Weiße, Andrea Y. and Turton, Jane F. and Abbas, Hala and Prakapaite, Ruta and Sabnis, Akshay and Abdolrasouli, Alireza and Malpartida-Cardenas, Kenny and Miglietta, Luca and Donaldson, Hugo and Gilchrist, Mark and Hopkins, Katie L. and Ellington, Matthew J and Otter, Jonathan A. and Larrouy-Maumus, Gerald and Edwards, Andrew M. and Rodriguez-Manzano, Jesus and Didelot, Xavier and Barahona, Mauricio and Holmes, Alison H. and Jauneikaite, Elita and Davies, Frances},
+	journal = {Nature Communications},
+	author = {Thomas, Philipp and Terradot, Guillaume and Danos, Vincent and Weiße, Andrea Y.},
 	month = oct,
-	year = {2021},
-	keywords = {boonyasiri2021.jpg},
+	year = {2018},
+	keywords = {thomas2018.png},
+	pages = {4528},
 }
 
-@article{ming2021,
-	title = {Informing antimicrobial management in the context of {COVID}-19: understanding the longitudinal dynamics of {C}-reactive protein and procalcitonin},
-	volume = {21},
-	issn = {1471-2334},
-	shorttitle = {Informing antimicrobial management in the context of {COVID}-19},
-	url = {https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-021-06621-7},
-	doi = {10.1186/s12879-021-06621-7},
-	abstract = {Abstract 
-            
-              Background
-              To characterise the longitudinal dynamics of C-reactive protein (CRP) and Procalcitonin (PCT) in a cohort of hospitalised patients with COVID-19 and support antimicrobial decision-making.
-            
-            
-              Methods
-              Longitudinal CRP and PCT concentrations and trajectories of 237 hospitalised patients with COVID-19 were modelled. The dataset comprised of 2,021 data points for CRP and 284 points for PCT. Pairwise comparisons were performed between: (i) those with or without significant bacterial growth from cultures, and (ii) those who survived or died in hospital.
-            
-            
-              Results
-              CRP concentrations were higher over time in COVID-19 patients with positive microbiology (day 9: 236 vs 123 mg/L, p {\textless} 0.0001) and in those who died (day 8: 226 vs 152 mg/L, p {\textless} 0.0001) but only after day 7 of COVID-related symptom onset. Failure for CRP to reduce in the first week of hospital admission was associated with significantly higher odds of death. PCT concentrations were higher in patients with COVID-19 and positive microbiology or in those who died, although these differences were not statistically significant.
-            
-            
-              Conclusions
-              Both the absolute CRP concentration and the trajectory during the first week of hospital admission are important factors predicting microbiology culture positivity and outcome in patients hospitalised with COVID-19. Further work is needed to describe the role of PCT for co-infection. Understanding relationships of these biomarkers can support development of risk models and inform optimal antimicrobial strategies.},
-	language = {en},
-	number = {1},
-	urldate = {2023-05-25},
-	journal = {BMC Infectious Diseases},
-	author = {Ming, Damien K. and Myall, Ashleigh C. and Hernandez, Bernard and Weiße, Andrea Y. and Peach, Robert L. and Barahona, Mauricio and Rawson, Timothy M. and Holmes, Alison H.},
-	month = dec,
-	year = {2021},
-	keywords = {ming2021.jpg},
-	pages = {932},
-}
-
-@article{myall2022b,
-	title = {Improved contact tracing using network analysis and spatial-temporal proximity},
-	volume = {116},
-	issn = {12019712},
-	url = {https://linkinghub.elsevier.com/retrieve/pii/S1201971221009395},
-	doi = {10.1016/j.ijid.2021.12.047},
+@article{terradot2018,
+	title = {Survival of the {Fattest}: {Evolutionary} {Trade}-offs in {Cellular} {Resource} {Storage}},
+	volume = {335},
+	issn = {15710661},
+	shorttitle = {Survival of the {Fattest}},
+	url = {https://linkinghub.elsevier.com/retrieve/pii/S1571066118300136},
+	doi = {10.1016/j.entcs.2018.03.010},
 	language = {en},
 	urldate = {2023-05-25},
-	journal = {International Journal of Infectious Diseases},
-	author = {Myall, A. and Peach, R. and Wan, Y. and Mookerjee, S. and Jauneikaite, E. and Bolt, F. and Price, J. and Davies, F. and Weisse, A. and Holmes, A.H. and Barahona, M.},
-	month = mar,
-	year = {2022},
-	pages = {S20},
-}
-
-@article{nikolados2019,
-	title = {Growth {Defects} and {Loss}-of-{Function} in {Synthetic} {Gene} {Circuits}},
-	volume = {8},
-	issn = {2161-5063, 2161-5063},
-	url = {https://pubs.acs.org/doi/10.1021/acssynbio.8b00531},
-	doi = {10.1021/acssynbio.8b00531},
-	language = {en},
-	number = {6},
-	urldate = {2023-05-25},
-	journal = {ACS Synthetic Biology},
-	author = {Nikolados, Evangelos-Marios and Weiße, Andrea Y. and Ceroni, Francesca and Oyarzún, Diego A.},
-	month = jun,
-	year = {2019},
-	keywords = {nikolados2019.jpg},
-	pages = {1231--1240},
-}
-
-@inproceedings{weisse2010b,
-	title = {Global sensitivity analysis of {ODEs} via the solution of the associated {Fokker}-{Planck} equation},
-	booktitle = {Proceedings of the 6th {Workshop} on {Computation} of {Biochemical} {Pathways} and {Genetic} {Networks}},
-	publisher = {Logos Verlag Berlin},
-	author = {Weiße, Andrea Y and Huisinga, Wilhelm},
-	year = {2010},
-	pages = {43--52},
-}
-
-@article{weisse2011,
-	title = {Error-controlled global sensitivity analysis of ordinary differential equations},
-	volume = {230},
-	issn = {00219991},
-	url = {https://linkinghub.elsevier.com/retrieve/pii/S0021999111003159},
-	doi = {10.1016/j.jcp.2011.05.011},
-	language = {en},
-	number = {17},
-	urldate = {2023-05-25},
-	journal = {Journal of Computational Physics},
-	author = {Weiße, Andrea Y. and Huisinga, Wilhelm},
-	month = jul,
-	year = {2011},
-	pages = {6824--6842},
-}
-
-@article{price2021,
-	title = {Development and {Delivery} of a {Real}-time {Hospital}-onset {COVID}-19 {Surveillance} {System} {Using} {Network} {Analysis}},
-	issn = {1058-4838, 1537-6591},
-	url = {https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa892/5868508},
-	doi = {10.1093/cid/ciaa892},
-	abstract = {Abstract
-            
-              Background
-              Understanding nosocomial acquisition, outbreaks, and transmission chains in real time will be fundamental to ensuring infection-prevention measures are effective in controlling coronavirus disease 2019 (COVID-19) in healthcare. We report the design and implementation of a hospital-onset COVID-19 infection (HOCI) surveillance system for an acute healthcare setting to target prevention interventions.
-            
-            
-              Methods
-              The study took place in a large teaching hospital group in London, United Kingdom. All patients tested for SARS-CoV-2 between 4 March and 14 April 2020 were included. Utilizing data routinely collected through electronic healthcare systems we developed a novel surveillance system for determining and reporting HOCI incidence and providing real-time network analysis. We provided daily reports on incidence and trends over time to support HOCI investigation and generated geotemporal reports using network analysis to interrogate admission pathways for common epidemiological links to infer transmission chains. By working with stakeholders the reports were co-designed for end users.
-            
-            
-              Results
-              Real-time surveillance reports revealed changing rates of HOCI throughout the course of the COVID-19 epidemic, key wards fueling probable transmission events, HOCIs overrepresented in particular specialties managing high-risk patients, the importance of integrating analysis of individual prior pathways, and the value of co-design in producing data visualization. Our surveillance system can effectively support national surveillance.
-            
-            
-              Conclusions
-              Through early analysis of the novel surveillance system we have provided a description of HOCI rates and trends over time using real-time shifting denominator data. We demonstrate the importance of including the analysis of patient pathways and networks in characterizing risk of transmission and targeting infection-control interventions.},
-	language = {en},
-	urldate = {2023-05-25},
-	journal = {Clinical Infectious Diseases},
-	author = {Price, James Richard and Mookerjee, Siddharth and Dyakova, Eleonora and Myall, Ashleigh and Leung, Wendy and Weiße, Andrea Yeong and Shersing, Yeeshika and Brannigan, Eimear Therese and Galletly, Tracey and Muir, David and Randell, Paul and Davies, Frances and Bolt, Frances and Barahona, Mauricio and Otter, Jonathan Ashley and Holmes, Alison H},
-	month = jul,
-	year = {2020},
-	keywords = {price2021.jpg},
-	pages = {ciaa892},
-}
-
-@article{otter2020,
-	title = {Detecting carbapenemase-producing {Enterobacterales} ({CPE}): an evaluation of an enhanced {CPE} infection control and screening programme in acute care},
-	volume = {75},
-	issn = {0305-7453, 1460-2091},
-	shorttitle = {Detecting carbapenemase-producing {Enterobacterales} ({CPE})},
-	url = {https://academic.oup.com/jac/article/75/9/2670/5849541},
-	doi = {10.1093/jac/dkaa192},
-	abstract = {Abstract
-            
-              Objectives
-              The transmission of carbapenemase-producing Enterobacterales (CPE) poses an increasing healthcare challenge. A range of infection prevention activities, including screening and contact precautions, are recommended by international and national guidelines. We evaluated the introduction of an enhanced screening programme in a multisite London hospital group.
-            
-            
-              Methods
-              In June 2015, an enhanced CPE policy was launched in response to a local rise in CPE detection. This increased infection prevention measures beyond the national recommendations, with enhanced admission screening, contact tracing and environmental disinfection, improved laboratory protocols and staff/patient education. We report the CPE incidence and trends of CPE in screening and clinical cultures and the adoption of enhanced CPE screening. All non-duplicate CPE isolates identified between April 2014 and March 2018 were included.
-            
-            
-              Results
-              The number of CPE screens increased progressively, from 4530 in July 2015 to 10 589 in March 2018. CPE detection increased from 18 patients in July 2015 (1.0 per 1000 admissions) to 50 patients in March 2018 (2.7 per 1000 admissions). The proportion of CPE-positive screening cultures remained at approximately 0.4\% throughout, suggesting that whilst the CPE carriage rate was unchanged, carrier identification increased. Also, 123 patients were identified through positive CPE clinical cultures over the study period; there was no significant change in the rate of CPE from clinical cultures per 1000 admissions (P = 0.07).
-            
-            
-              Conclusions
-              Our findings suggest that whilst the enhanced screening programme identified a previously undetected reservoir of CPE colonization in our patient population, the rate of detection of CPE in clinical cultures did not increase.},
-	language = {en},
-	number = {9},
-	urldate = {2023-05-25},
-	journal = {Journal of Antimicrobial Chemotherapy},
-	author = {Otter, Jonathan A and Mookerjee, Siddharth and Davies, Frances and Bolt, Frances and Dyakova, Eleonora and Shersing, Yeeshika and Boonyasiri, Adhiratha and Weiße, Andrea Y and Gilchrist, Mark and Galletly, Tracey J and Brannigan, Eimear T and Holmes, Alison H},
-	month = sep,
-	year = {2020},
-	keywords = {otter2020.jpg},
-	pages = {2670--2676},
-}
-
-@article{oyarzun2013,
-	title = {Cumulative {Signal} {Transmission} in {Nonlinear} {Reaction}-{Diffusion} {Networks}},
-	volume = {8},
-	issn = {1932-6203},
-	url = {https://dx.plos.org/10.1371/journal.pone.0062834},
-	doi = {10.1371/journal.pone.0062834},
-	language = {en},
-	number = {5},
-	urldate = {2023-05-25},
-	journal = {PLoS ONE},
-	author = {Oyarzún, Diego A. and López-Caamal, Fernando and García, Míriam R. and Middleton, Richard H. and Weiße, Andrea Y.},
-	editor = {Kurths, Jürgen},
-	month = may,
-	year = {2013},
-	keywords = {oyarzun2013.png},
-	pages = {e62834},
-}
-
-@techreport{myall2021a,
-	type = {preprint},
-	title = {Characterising contact in disease outbreaks via a network model of spatial-temporal proximity},
-	url = {http://medrxiv.org/lookup/doi/10.1101/2021.04.07.21254497},
-	abstract = {ABSTRACT
-          Contact tracing is a key tool in epidemiology to identify and control outbreaks of infectious diseases. Existing contact tracing methodologies produce contact maps of individuals based on a binary definition of contact which can be hampered by missing data and indirect contacts. Here, we present a Spatial-temporal Epidemiological Proximity (StEP) model to recover contact maps in disease outbreaks based on movement data. The StEP model accounts for imperfect data by considering probabilistic contacts between individuals based on spatial-temporal proximity of their movement trajectories, creating a robust movement network despite possible missing data and unseen transmission routes. Using real-world data we showcase the potential of StEP for contact tracing with outbreaks of multidrug-resistant bacteria and COVID-19 in a large hospital group in London, UK. In addition to the core structure of contacts that can be recovered using traditional methods of contact tracing, the StEP model reveals missing contacts that connect seemingly separate outbreaks. Comparison with genomic data further confirmed that these recovered contacts indeed improve characterisation of disease transmission and so highlights how the StEP framework can inform effective strategies of infection control and prevention.},
-	language = {en},
-	urldate = {2023-05-25},
-	institution = {Epidemiology},
-	author = {Myall, Ashleigh and Peach, Robert L. and Wan, Yu and Mookerjee, Siddharth and Jauneikaite, Elita and Bolt, Frankie and Price, James and Davies, Frances and Weiße, Andrea Y. and Holmes, Alison and Barahona, Mauricio},
+	journal = {Electronic Notes in Theoretical Computer Science},
+	author = {Terradot, Guillaume and Beica, Andreea and Weiße, Andrea and Danos, Vincent},
 	month = apr,
-	year = {2021},
-	keywords = {myall2021a.jpg},
-}
-
-@phdthesis{weisse2009,
-	title = {Adaptive {Dichtepropagation} mit {Approximate} {ApproximationsGlobal} sensitivity analysis of ordinary differential equations: adaptive density propagation using approximate approximations},
-	shorttitle = {Adaptive {Dichtepropagation} mit {Approximate} {ApproximationsGlobal} sensitivity analysis of ordinary differential equations},
-	url = {https://refubium.fu-berlin.de/handle/fub188/9586},
-	abstract = {Gewöhnliche Differentialgleichungen nehmen eine essentielle Stellung in der mathematischen Modellierung ein. Als Voraussetzung für zuverlässige Resultate muss sowohl in der Modellbildung als auch in der Analyse des Modells der Einfluss von Unsicherheit und/oder Variabilität in den Eingabedaten berücksichtigt werden. Mit Hilfe von Sensitivitätsanalyse wird untersucht, wie sich Unsicherheit und Variabilität durch die Modelldynamik ausbreiten und sich somit auf die Ausgabedaten auswirken. Globale Sensitivitätsanalyse untersucht die Auswirkungen von Abweichungen in den Eingabedaten, die sich möglicherweise über den gesamten Zustandsraum erstrecken. Zwei Probleme, die die globale Analyse erschweren, sind hohe Dimensionen und eine Kontrolle der Genauigkeit, mit der die Ausgabeunsicherheit geschätzt wird. Die meisten numerischen Ansätze konzentrieren sich derzeitig darauf, die Analyse von hoch- dimensionalen Problemen effizienter zu gestalten. Inwiefern die geschätzte Ausgabeunsicherheit dabei der tatsächlichen Ausgabeunsicherheit entspricht, bleibt jedoch meist unklar. In dieser Arbeit wird ein neuer Ansatz zur globalen Sensitivitätsanalyse von gewöhnlichen Differentialgleichungen vorgestellt. Hauptmerkmal dieses Ansatzes ist eine adaptive Schätzung der Ausgabeunsicherheit, bei der der Approximationsfehler automatisch kontrolliert wird. Dafür bedienen wir uns einer äquivalenten Formulierung des Problems, in der die zeitliche Entwicklung der Wahrscheinlichkeitsdichte der unsicheren Zustandsvariablen durch eine partielle Differentialgleichung beschrieben wird. Zur Lösung dieser Differentialgleichung kombinieren wir neue Ansätze aus Numerik und Approximationstheorie. Die hier vorgestellte Methode kontrolliert den Approximationsfehler, indem sowohl die Zeit- als auch die Ortsdiskretisierung angepasst wird. Wir verwenden ein Rothe-Verfahren, das einen angemessenen Kontext für die separate Schätzung von Zeit- und Ortsfehlern schafft, so dass die Diskretisierung entsprechend adaptiert werden kann. Für die Ortsdiskretisierung verwenden wir Approximate Approximations, eine neu eingeführte Approximationsmethode, die hier zum ersten Mal im Rahmen eines adaptiven Rothe-Verfahrens eingesetzt wird. Wir analysieren die Konvergenz des Verfahrens und untersuchen, wie sich Approximate Approximations für die adaptive Lösung der Ortsprobleme eignen. Wir zeigen, dass das Verfahren konvergiert. Darüber hinaus geben die theoretischen Resultate direkt Aufschluss darüber, wie eine effiziente Implementierung realisiert werden kann. Die Ergebnisse werden anhand von numerischen Beispielen illustriert, die auch zeigen, dass das Verfahren eine hohe Genauigkeit bei der Schätzung der Ausgabeunsicherheiten erzielt. Desweiteren erweisen sich Approximate Approximations als vorteilhaft innerhalb des adaptiven Verfahrens, da sowohl Fehlerschätzer als auch Approximationen hoher Ordnung zu vertretbaren Rechenzeiten verfügbar sind. Aktuelle Fortschritte in der Theorie von Approximate Approximations, beruhend auf einer gitterfreien Diskretisierung, lassen außerdem darauf hoffen, dass sich das in dieser Arbeit vorgestellte Konzept auch auf höher-dimensionale Probleme übertragen lässt.},
-	urldate = {2023-05-25},
-	school = {Freie Universität Berlin},
-	author = {Weiße, Andrea Yeong},
-	collaborator = {Universitätsbibliothek Der FU Berlin and Universitätsbibliothek Der FU Berlin},
-	year = {2009},
-	keywords = {weisse2009.png},
-}
-
-@inproceedings{weisse2006,
-	title = {Adaptive approach for modelling variability in pharmacokinetics},
-	isbn = {3-540-45767-4},
-	abstract = {We present an improved adaptive approach for studying systems of ODEs affected by parameter variability and state space uncertainty. Our approach is based on a reformulation of the ODE problem as a transport problem of a probability density describing the evolution of the ensemble of systems in time. The resulting multidimensional problem is solved by representing the probability density w.r.t. an adaptively chosen Galerkin ansatz space of Gaussian densities. Due to our improvements in adaptivity control, we substantially improved the overall performance of the original algorithm and moreover inherited to the numerical scheme the theoretical property that the number of Gaussian distributions remains constant for linear ODEs. We illustrate the approach in application to dynamical systems describing the pharmacokinetics of drugs and xenobiotics, where variability in physiological parameters is important to be considered.},
-	booktitle = {{CompLife}},
-	author = {Weiße, Andrea Y and Horenko, Illia and Huisinga, Wilhelm},
-	year = {2006},
-	keywords = {weisse2006.png},
-	pages = {194--204},
-}
-
-@incollection{perkins2012,
-	title = {3. {Chance} and memory},
-	isbn = {978-1-4398-2722-2},
-	booktitle = {Quantitative {Biology}: {From} {Molecular} to {Cellular} {Systems}},
-	publisher = {CRC Press},
-	author = {Perkins, Theodore J and Weiße, Andrea Y and Swain, Peter S},
-	year = {2012},
-	keywords = {perkins2012.png},
-	pages = {1--22},
+	year = {2018},
+	keywords = {terradot2018.png},
+	pages = {91--112},
 }
 
 @inproceedings{hunt_investigating_2023,
@@ -483,7 +483,7 @@
 	year = {2023},
 	keywords = {hunt2023.png},
 	pages = {1--4},
-	file = {Hunt et al. - 2023 - Investigating the relationship between cue immersi.pdf:C\:\\Users\\wagne\\Zotero\\storage\\574IGXCW\\Hunt2023_Investigating the relationship between cue immersion and the strength of motor imagery during hand and wrist movements.pdf:application/pdf},
+	file = {Hunt et al. - 2023 - Investigating the relationship between cue immersi.pdf:C\:\\Users\\s2116812\\Zotero\\storage\\574IGXCW\\Hunt2023_Investigating the relationship between cue immersion and the strength of motor imagery during hand and wrist movements.pdf:application/pdf},
 }
 
 @article{wagner_gmocu_2024,
@@ -502,5 +502,24 @@
 	year = {2024},
 	keywords = {wagner2024.jpg},
 	pages = {2300529},
-	file = {Wagner et al. - 2024 - GMOCU Digital Documentation, Management, and Biol.pdf:C\:\\Users\\wagne\\Zotero\\storage\\573Q7ZJV\\Wagner et al. - 2024 - GMOCU Digital Documentation, Management, and Biol.pdf:application/pdf},
+	file = {Wagner et al. - 2024 - GMOCU Digital Documentation, Management, and Biol.pdf:C\:\\Users\\s2116812\\Zotero\\storage\\573Q7ZJV\\Wagner et al. - 2024 - GMOCU Digital Documentation, Management, and Biol.pdf:application/pdf},
+}
+
+@article{Gorantla2024,
+	title = {Benchmarking {Active} {Learning} {Protocols} for {Ligand}-{Binding} {Affinity} {Prediction}},
+	volume = {64},
+	copyright = {https://creativecommons.org/licenses/by/4.0/},
+	issn = {1549-9596, 1549-960X},
+	url = {https://pubs.acs.org/doi/10.1021/acs.jcim.4c00220},
+	doi = {10.1021/acs.jcim.4c00220},
+	language = {en},
+	number = {6},
+	urldate = {2024-09-30},
+	journal = {Journal of Chemical Information and Modeling},
+	author = {Gorantla, Rohan and Kubincová, Alžbeta and Suutari, Benjamin and Cossins, Benjamin P. and Mey, Antonia S. J. S.},
+	month = mar,
+	year = {2024},
+	keywords = {gorantla2024.jpeg},
+	pages = {1955--1965},
+	file = {Full Text:C\:\\Users\\s2116812\\Zotero\\storage\\KPXACB7B\\Gorantla et al. - 2024 - Benchmarking Active Learning Protocols for Ligand-Binding Affinity Prediction.pdf:application/pdf},
 }
