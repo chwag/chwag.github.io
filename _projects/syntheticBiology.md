@@ -45,5 +45,5 @@ experiments designed to maximise the insights derived and expedite the design-bu
 
 <div>
   <span> Currently working on this: </span>
-  <li class="tab"><a href="/people/sandyNelson/">Sandy Nelson</a></li>
+  <li class="tab"><a href="/people/rodrigoMolina/">Rodrigo Lara Molina</a></li>
 </div>
