@@ -4,7 +4,7 @@ title: Rodrigo Lara Molina
 firstNames: Rodrigo
 surnames: Lara Molina
 description: PhD student
-img: 
+img: assets/img/profiles/rodrigoMolina_cropped.png
 importance: 1
 category: PhD
 projects: [inference]
