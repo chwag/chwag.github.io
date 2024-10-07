@@ -7,7 +7,7 @@ description: PhD student
 img: assets/img/profiles/rodrigoMolina_cropped.png
 importance: 1
 category: PhD
-projects: [inference]
+projects: [inference, ar]
 degree: MSc.
 ---
 
