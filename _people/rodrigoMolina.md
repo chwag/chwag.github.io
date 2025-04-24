@@ -4,7 +4,7 @@ title: Rodrigo Lara Molina
 firstNames: Rodrigo
 surnames: Lara Molina
 description: PhD student
-img: assets/img/profiles/rodrigoMolina_cropped.png
+img: assets/img/profiles/rodrigoMolina_cropped.jpg
 importance: 1
 category: PhD
 projects: [inference, ar]
@@ -30,7 +30,7 @@ trips and enjoy being part of the multicultural community in Edinburgh.
     <div class="row">
       {% 
         include figure.liquid 
-        path="assets/img/profiles/rodrigoMolina_cropped.png" 
+        path="assets/img/profiles/rodrigoMolina_cropped.jpg" 
         title="Rodrigo Lara Molina" 
         class="img-fluid rounded z-depth-1" 
       %}

@@ -28,7 +28,7 @@ doorstep in Edinburgh! 
     <div class="row">
       {% 
         include figure.liquid 
-        path="assets/img/profiles/hollieHindley_cropped.png" 
+        path="assets/img/profiles/hollieHindley_cropped.jpg" 
         title="Hollie Hindley" 
         class="img-fluid rounded z-depth-1" 
       %}

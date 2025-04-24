@@ -22,7 +22,7 @@ degree: Dr.
     <div class="row">
       {% 
         include figure.liquid 
-        path="assets/img/profiles/andreaWeisse_cropped.png" 
+        path="assets/img/profiles/andreaWeisse_cropped.jpg" 
         title="Andrea Weisse" 
         class="img-fluid rounded z-depth-1" 
       %}

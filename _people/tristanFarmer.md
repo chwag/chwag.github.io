@@ -21,7 +21,7 @@ degree:
     <div class="row">
       {% 
         include figure.liquid 
-        path="assets/img/profiles/tristanFarmer_cropped.png" 
+        path="assets/img/profiles/tristanFarmer_cropped.jpg" 
         title="Tristan Farmer" 
         class="img-fluid rounded z-depth-1" 
       %}

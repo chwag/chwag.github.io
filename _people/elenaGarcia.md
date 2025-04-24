@@ -30,7 +30,7 @@ the goal of creating a tool to support the design of antibiotic combination ther
     <div class="row">
       {% 
         include figure.liquid 
-        path="assets/img/profiles/elenaGarcia_cropped.png" 
+        path="assets/img/profiles/elenaGarcia_cropped.jpg" 
         title="Elena Pascual Garcia" 
         class="img-fluid rounded z-depth-1" 
       %}

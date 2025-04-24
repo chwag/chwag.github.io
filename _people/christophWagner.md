@@ -31,7 +31,7 @@ articles on my blog and sometimes running around in circles.
     <div class="row">
       {% 
         include figure.liquid 
-        path="assets/img/profiles/christophWagner_cropped.png" 
+        path="assets/img/profiles/christophWagner_cropped.jpg" 
         title="Christoph Wagner" 
         class="img-fluid rounded z-depth-1" 
       %}

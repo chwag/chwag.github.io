@@ -26,7 +26,7 @@ and saxophone, and  perform regularly at the Jazz Bar and the Doghouse.
     <div class="row">
       {% 
         include figure.liquid 
-        path="assets/img/profiles/malachyMcEvoy_cropped.png" 
+        path="assets/img/profiles/malachyMcEvoy_cropped.jpg" 
         title="Malachy McEvoy" 
         class="img-fluid rounded z-depth-1" 
       %}
