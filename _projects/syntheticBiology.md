@@ -20,6 +20,7 @@ insights into hallmarks of self-regeneration underpinning living systems.
 <div>
   <span> Currently working on this: </span>
   <li class="tab"><a href="/people/christophWagner/">Christoph Wagner</a></li>
+  <li class="tab"><a href="/people/malachyMcEvoy/">Malachy McEvoy</a></li>
 </div>
 
 <div class="container" style="margin-top: 20px">

@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Malachy McEvoy
-firstNames: Malachy
-surnames: McEvoy
+title: Tristan Farmer
+firstNames: Tristan
+surnames: Farmer
 description: Honours student
-img: assets/img/profiles/malachyMcEvoy_cropped.jpg
+img: assets/img/profiles/tristanFarmer_cropped.jpg
 importance: 1
 category: Honours
-projects: [ar]
+projects: [growth, ar]
 degree: 
 ---
 

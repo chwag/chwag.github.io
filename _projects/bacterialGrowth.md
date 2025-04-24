@@ -21,6 +21,7 @@ environmental stimuli with cellular mechanisms.
   <span> Currently working on this: </span>
   <li class="tab"><a href="/people/hollieHindley/">Hollie Hindley</a></li>
   <li class="tab"><a href="/people/elenaGarcia/">Elena Pascual Garcia</a></li>
+  <li class="tab"><a href="/people/tristanFarmer/">Tristan Farmer</a></li>
 </div>
 
 ---
@@ -36,4 +37,5 @@ overuse of antibiotics.
   <li class="tab"><a href="/people/hollieHindley/">Hollie Hindley</a></li>
   <li class="tab"><a href="/people/elenaGarcia/">Elena Pascual Garcia</a></li>
   <li class="tab"><a href="/people/rodrigoMolina/">Rodrigo Lara Molina</a></li>
+  <li class="tab"><a href="/people/tristanFarmer/">Tristan Farmer</a></li>
 </div>

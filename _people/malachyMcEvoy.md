@@ -7,7 +7,7 @@ description: Honours student
 img: assets/img/profiles/malachyMcEvoy_cropped.jpg
 importance: 1
 category: Honours
-projects: [ar]
+projects: [cfps]
 degree: 
 ---
 
