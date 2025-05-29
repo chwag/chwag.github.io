@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Peter is joining the group for a rotation, co-supervised with Prof. Peter Swain. Welcome and looking forward to the 
-next few weeks!
+Peter is joining the group for a rotation, co-supervised with Prof. Peter Swain. Welcome and looking forward to the next few weeks!

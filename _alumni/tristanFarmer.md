@@ -8,7 +8,7 @@ img: assets/img/profiles/tristanFarmer_cropped.jpg
 importance: 1
 category: Honours
 projects: [growth, ar]
-degree: 
+degree: BSc.
 ---
 
 <div class="row">

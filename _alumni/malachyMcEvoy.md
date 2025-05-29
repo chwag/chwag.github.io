@@ -8,7 +8,7 @@ img: assets/img/profiles/malachyMcEvoy_cropped.jpg
 importance: 1
 category: Honours
 projects: [cfps]
-degree: 
+degree: BSc.
 ---
 
 <div class="row">
