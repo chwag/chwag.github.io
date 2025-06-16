@@ -7,7 +7,7 @@ description: Research Assistant
 img:
 importance: 1
 category: Staff
-degree: MSc.
+degree: Dr.
 ---
 
 <div class="row">

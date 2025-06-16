@@ -8,7 +8,7 @@ img: assets/img/profiles/rohanGorantla_cropped.jpg
 importance: 1
 category: PhD
 projects: []
-degree: MSc.
+degree: Dr.
 ---
 
 <div class="row">
