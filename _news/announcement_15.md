@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2025-05-30 20:40:00-0800
+date: 2025-05-29 20:40:00-0800
 inline: true
 related_posts: false
 ---
 
-Hollie, Rodrigo and Christoph fulfill their yearlong pledge and become the fastest PhD group at the university to run 
-the 7 Hills 7 Pints of Edinburgh. An experience to remember, if the alcohol allows...
+Tristan and Malachy both submitted their theses and are taking their next strides. Good work from the both of you and 
+best of luck in what's to come!

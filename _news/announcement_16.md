@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2025-06-03 20:40:00-0800
+date: 2025-05-30 20:40:00-0800
 inline: true
 related_posts: false
 ---
 
-Christoph delivers a highly entertaining talk about his internship with A*STAR SIMTech at the EASTBIO Symposium on the 
-challenges and benefits of interdisciplinary work.
+Hollie, Rodrigo and Christoph fulfill their yearlong pledge and become the fastest PhD group at the university to run 
+the 7 Hills 7 Pints of Edinburgh. An experience to remember, if the alcohol allows...
