@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="052cbec3-ed25-4ebb-83ae-61b34e6f8a25" name="Changes" comment="News" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2LdWShnNTh3MasRCT3klOHn7LPt" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/s2116812/OneDrive - University of Edinburgh/Documents/chwag.github.io/_news"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\s2116812\OneDrive - University of Edinburgh\Documents\chwag.github.io\_news" />
+      <recent name="C:\Users\s2116812\OneDrive - University of Edinburgh\Documents\chwag.github.io\_people" />
+      <recent name="C:\Users\s2116812\OneDrive - University of Edinburgh\Documents\chwag.github.io\assets\img\group" />
+      <recent name="E:\OneDrive - University of Edinburgh\Documents\chwag.github.io\assets\img" />
+      <recent name="C:\Users\s2116812\OneDrive - University of Edinburgh\Documents\chwag.github.io\assets\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\s2116812\OneDrive - University of Edinburgh\Documents\chwag.github.io\_alumni" />
+      <recent name="C:\Users\wagne\OneDrive - University of Edinburgh\Documents\chwag.github.io\assets\img\projects\textImages" />
+      <recent name="C:\Users\wagne\OneDrive - University of Edinburgh\Documents\chwag.github.io\assets\img\projects\coverImages" />
+      <recent name="C:\Users\wagne\OneDrive - University of Edinburgh\Documents\chwag.github.io\_alumni" />
+      <recent name="C:\Users\Christoph Wagner\OneDrive - University of Edinburgh\Documents\chwag.github.io\assets\img\group" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-ce3d9afa04ac-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.20224.347" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="052cbec3-ed25-4ebb-83ae-61b34e6f8a25" name="Changes" comment="" />
+      <created>1676201448074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676201448074</updated>
+    </task>
+    <task id="LOCAL-00188" summary="Aesthetics on CFPS images">
+      <created>1710734928064</created>
+      <option name="number" value="00188" />
+      <option name="presentableId" value="LOCAL-00188" />
+      <option name="project" value="LOCAL" />
+      <updated>1710734928064</updated>
+    </task>
+    <task id="LOCAL-00189" summary="(2) Aesthetics on CFPS images">
+      <created>1710735734175</created>
+      <option name="number" value="00189" />
+      <option name="presentableId" value="LOCAL-00189" />
+      <option name="project" value="LOCAL" />
+      <updated>1710735734175</updated>
+    </task>
+    <task id="LOCAL-00190" summary="Readding previews">
+      <created>1710736794889</created>
+      <option name="number" value="00190" />
+      <option name="presentableId" value="LOCAL-00190" />
+      <option name="project" value="LOCAL" />
+      <updated>1710736794889</updated>
+    </task>
+    <task id="LOCAL-00191" summary="Fixed project order, updated bibliography">
+      <created>1710740308460</created>
+      <option name="number" value="00191" />
+      <option name="presentableId" value="LOCAL-00191" />
+      <option name="project" value="LOCAL" />
+      <updated>1710740308460</updated>
+    </task>
+    <task id="LOCAL-00192" summary="Reduced size of project images">
+      <created>1710740875441</created>
+      <option name="number" value="00192" />
+      <option name="presentableId" value="LOCAL-00192" />
+      <option name="project" value="LOCAL" />
+      <updated>1710740875441</updated>
+    </task>
+    <task id="LOCAL-00193" summary="Trying to automate the 'Working on' lists again">
+      <created>1710742782000</created>
+      <option name="number" value="00193" />
+      <option name="presentableId" value="LOCAL-00193" />
+      <option name="project" value="LOCAL" />
+      <updated>1710742782000</updated>
+    </task>
+    <task id="LOCAL-00194" summary="(2) Trying to automate the 'Working on' lists again">
+      <created>1710743411356</created>
+      <option name="number" value="00194" />
+      <option name="presentableId" value="LOCAL-00194" />
+      <option name="project" value="LOCAL" />
+      <updated>1710743411356</updated>
+    </task>
+    <task id="LOCAL-00195" summary="(3) Trying to automate the 'Working on' lists again">
+      <created>1710743636239</created>
+      <option name="number" value="00195" />
+      <option name="presentableId" value="LOCAL-00195" />
+      <option name="project" value="LOCAL" />
+      <updated>1710743636239</updated>
+    </task>
+    <task id="LOCAL-00196" summary="(4) Trying to automate the 'Working on' lists again">
+      <created>1710744830066</created>
+      <option name="number" value="00196" />
+      <option name="presentableId" value="LOCAL-00196" />
+      <option name="project" value="LOCAL" />
+      <updated>1710744830066</updated>
+    </task>
+    <task id="LOCAL-00197" summary="Reverting to manual lists">
+      <created>1710745398769</created>
+      <option name="number" value="00197" />
+      <option name="presentableId" value="LOCAL-00197" />
+      <option name="project" value="LOCAL" />
+      <updated>1710745398769</updated>
+    </task>
+    <task id="LOCAL-00198" summary="Reverting to manual lists">
+      <created>1710745891269</created>
+      <option name="number" value="00198" />
+      <option name="presentableId" value="LOCAL-00198" />
+      <option name="project" value="LOCAL" />
+      <updated>1710745891269</updated>
+    </task>
+    <task id="LOCAL-00199" summary="Adding DOI link to publications">
+      <created>1710746864811</created>
+      <option name="number" value="00199" />
+      <option name="presentableId" value="LOCAL-00199" />
+      <option name="project" value="LOCAL" />
+      <updated>1710746864811</updated>
+    </task>
+    <task id="LOCAL-00200" summary="(2) Adding DOI link to publications">
+      <created>1710747516686</created>
+      <option name="number" value="00200" />
+      <option name="presentableId" value="LOCAL-00200" />
+      <option name="project" value="LOCAL" />
+      <updated>1710747516686</updated>
+    </task>
+    <task id="LOCAL-00201" summary="Testing bib.liquid">
+      <created>1710749902519</created>
+      <option name="number" value="00201" />
+      <option name="presentableId" value="LOCAL-00201" />
+      <option name="project" value="LOCAL" />
+      <updated>1710749902520</updated>
+    </task>
+    <task id="LOCAL-00202" summary="(3) Adding DOI link to publications">
+      <created>1710750551715</created>
+      <option name="number" value="00202" />
+      <option name="presentableId" value="LOCAL-00202" />
+      <option name="project" value="LOCAL" />
+      <updated>1710750551715</updated>
+    </task>
+    <task id="LOCAL-00203" summary="(4) Adding URL to publications">
+      <created>1710750979067</created>
+      <option name="number" value="00203" />
+      <option name="presentableId" value="LOCAL-00203" />
+      <option name="project" value="LOCAL" />
+      <updated>1710750979067</updated>
+    </task>
+    <task id="LOCAL-00204" summary="Adding Hollie's marathon">
+      <created>1714154150284</created>
+      <option name="number" value="00204" />
+      <option name="presentableId" value="LOCAL-00204" />
+      <option name="project" value="LOCAL" />
+      <updated>1714154150285</updated>
+    </task>
+    <task id="LOCAL-00205" summary="Adding Hollie's preprint">
+      <created>1716383518299</created>
+      <option name="number" value="00205" />
+      <option name="presentableId" value="LOCAL-00205" />
+      <option name="project" value="LOCAL" />
+      <updated>1716383518301</updated>
+    </task>
+    <task id="LOCAL-00206" summary="Trying to add google site verification for SEO">
+      <created>1718195245135</created>
+      <option name="number" value="00206" />
+      <option name="presentableId" value="LOCAL-00206" />
+      <option name="project" value="LOCAL" />
+      <updated>1718195245136</updated>
+    </task>
+    <task id="LOCAL-00207" summary="Fixing broken workflows">
+      <created>1718196918976</created>
+      <option name="number" value="00207" />
+      <option name="presentableId" value="LOCAL-00207" />
+      <option name="project" value="LOCAL" />
+      <updated>1718196918976</updated>
+    </task>
+    <task id="LOCAL-00208" summary="Trying to activate google verification">
+      <created>1718198570110</created>
+      <option name="number" value="00208" />
+      <option name="presentableId" value="LOCAL-00208" />
+      <option name="project" value="LOCAL" />
+      <updated>1718198570110</updated>
+    </task>
+    <task id="LOCAL-00209" summary="Working on SEO">
+      <created>1718709276558</created>
+      <option name="number" value="00209" />
+      <option name="presentableId" value="LOCAL-00209" />
+      <option name="project" value="LOCAL" />
+      <updated>1718709276558</updated>
+    </task>
+    <task id="LOCAL-00210" summary="Adding favicon.ico">
+      <created>1718787321238</created>
+      <option name="number" value="00210" />
+      <option name="presentableId" value="LOCAL-00210" />
+      <option name="project" value="LOCAL" />
+      <updated>1718787321238</updated>
+    </task>
+    <task id="LOCAL-00211" summary="Adding Elena's talk at EPCP Young Scholars">
+      <created>1718808915092</created>
+      <option name="number" value="00211" />
+      <option name="presentableId" value="LOCAL-00211" />
+      <option name="project" value="LOCAL" />
+      <updated>1718808915092</updated>
+    </task>
+    <task id="LOCAL-00212" summary="Adding BMIA news and group photo">
+      <created>1720521936461</created>
+      <option name="number" value="00212" />
+      <option name="presentableId" value="LOCAL-00212" />
+      <option name="project" value="LOCAL" />
+      <updated>1720521936462</updated>
+    </task>
+    <task id="LOCAL-00213" summary="Testing classes in carousel">
+      <created>1720523010217</created>
+      <option name="number" value="00213" />
+      <option name="presentableId" value="LOCAL-00213" />
+      <option name="project" value="LOCAL" />
+      <updated>1720523010217</updated>
+    </task>
+    <task id="LOCAL-00214" summary="Trying to add portrait into carousel">
+      <created>1720524201237</created>
+      <option name="number" value="00214" />
+      <option name="presentableId" value="LOCAL-00214" />
+      <option name="project" value="LOCAL" />
+      <updated>1720524201237</updated>
+    </task>
+    <task id="LOCAL-00215" summary="Trying to add portrait into carousel">
+      <created>1720528328120</created>
+      <option name="number" value="00215" />
+      <option name="presentableId" value="LOCAL-00215" />
+      <option name="project" value="LOCAL" />
+      <updated>1720528328120</updated>
+    </task>
+    <task id="LOCAL-00216" summary="Trying to add portrait into carousel">
+      <created>1720528881197</created>
+      <option name="number" value="00216" />
+      <option name="presentableId" value="LOCAL-00216" />
+      <option name="project" value="LOCAL" />
+      <updated>1720528881197</updated>
+    </task>
+    <task id="LOCAL-00217" summary="Trying to add portrait into carousel">
+      <created>1720529034651</created>
+      <option name="number" value="00217" />
+      <option name="presentableId" value="LOCAL-00217" />
+      <option name="project" value="LOCAL" />
+      <updated>1720529034651</updated>
+    </task>
+    <task id="LOCAL-00218" summary="Trying to add portrait into carousel">
+      <created>1720529628185</created>
+      <option name="number" value="00218" />
+      <option name="presentableId" value="LOCAL-00218" />
+      <option name="project" value="LOCAL" />
+      <updated>1720529628185</updated>
+    </task>
+    <task id="LOCAL-00219" summary="Trying to add portrait into carousel">
+      <created>1720530296550</created>
+      <option name="number" value="00219" />
+      <option name="presentableId" value="LOCAL-00219" />
+      <option name="project" value="LOCAL" />
+      <updated>1720530296550</updated>
+    </task>
+    <task id="LOCAL-00220" summary="Trying to add portrait into carousel">
+      <created>1720530749046</created>
+      <option name="number" value="00220" />
+      <option name="presentableId" value="LOCAL-00220" />
+      <option name="project" value="LOCAL" />
+      <updated>1720530749046</updated>
+    </task>
+    <task id="LOCAL-00221" summary="Trying to add portrait into carousel">
+      <created>1720531028950</created>
+      <option name="number" value="00221" />
+      <option name="presentableId" value="LOCAL-00221" />
+      <option name="project" value="LOCAL" />
+      <updated>1720531028950</updated>
+    </task>
+    <task id="LOCAL-00222" summary="Trying to add portrait into carousel">
+      <created>1720532720856</created>
+      <option name="number" value="00222" />
+      <option name="presentableId" value="LOCAL-00222" />
+      <option name="project" value="LOCAL" />
+      <updated>1720532720856</updated>
+    </task>
+    <task id="LOCAL-00223" summary="Spring cleaning">
+      <created>1727104348522</created>
+      <option name="number" value="00223" />
+      <option name="presentableId" value="LOCAL-00223" />
+      <option name="project" value="LOCAL" />
+      <updated>1727104348523</updated>
+    </task>
+    <task id="LOCAL-00224" summary="Formatting contact text">
+      <created>1727104892304</created>
+      <option name="number" value="00224" />
+      <option name="presentableId" value="LOCAL-00224" />
+      <option name="project" value="LOCAL" />
+      <updated>1727104892304</updated>
+    </task>
+    <task id="LOCAL-00225" summary="Formatting contact info">
+      <created>1727105598331</created>
+      <option name="number" value="00225" />
+      <option name="presentableId" value="LOCAL-00225" />
+      <option name="project" value="LOCAL" />
+      <updated>1727105598331</updated>
+    </task>
+    <task id="LOCAL-00226" summary="Formatting contact info">
+      <created>1727166880176</created>
+      <option name="number" value="00226" />
+      <option name="presentableId" value="LOCAL-00226" />
+      <option name="project" value="LOCAL" />
+      <updated>1727166880176</updated>
+    </task>
+    <task id="LOCAL-00227" summary="Formatting contact info">
+      <created>1727167916232</created>
+      <option name="number" value="00227" />
+      <option name="presentableId" value="LOCAL-00227" />
+      <option name="project" value="LOCAL" />
+      <updated>1727167916232</updated>
+    </task>
+    <task id="LOCAL-00228" summary="Formatting contact info">
+      <created>1727168269515</created>
+      <option name="number" value="00228" />
+      <option name="presentableId" value="LOCAL-00228" />
+      <option name="project" value="LOCAL" />
+      <updated>1727168269515</updated>
+    </task>
+    <task id="LOCAL-00229" summary="Formatting contact info">
+      <created>1727168939913</created>
+      <option name="number" value="00229" />
+      <option name="presentableId" value="LOCAL-00229" />
+      <option name="project" value="LOCAL" />
+      <updated>1727168939913</updated>
+    </task>
+    <task id="LOCAL-00230" summary="Adding Malachy">
+      <created>1727182406210</created>
+      <option name="number" value="00230" />
+      <option name="presentableId" value="LOCAL-00230" />
+      <option name="project" value="LOCAL" />
+      <updated>1727182406210</updated>
+    </task>
+    <task id="LOCAL-00231" summary="Updating Malachy">
+      <created>1727182714937</created>
+      <option name="number" value="00231" />
+      <option name="presentableId" value="LOCAL-00231" />
+      <option name="project" value="LOCAL" />
+      <updated>1727182714937</updated>
+    </task>
+    <task id="LOCAL-00232" summary="Updating bibliography">
+      <created>1727688535040</created>
+      <option name="number" value="00232" />
+      <option name="presentableId" value="LOCAL-00232" />
+      <option name="project" value="LOCAL" />
+      <updated>1727688535040</updated>
+    </task>
+    <task id="LOCAL-00233" summary="Adding Rodrigo">
+      <created>1727783480321</created>
+      <option name="number" value="00233" />
+      <option name="presentableId" value="LOCAL-00233" />
+      <option name="project" value="LOCAL" />
+      <updated>1727783480321</updated>
+    </task>
+    <task id="LOCAL-00234" summary="Forgot to add img path">
+      <created>1727783721346</created>
+      <option name="number" value="00234" />
+      <option name="presentableId" value="LOCAL-00234" />
+      <option name="project" value="LOCAL" />
+      <updated>1727783721346</updated>
+    </task>
+    <task id="LOCAL-00235" summary="Add Rodrigo to AR project">
+      <created>1728299287550</created>
+      <option name="number" value="00235" />
+      <option name="presentableId" value="LOCAL-00235" />
+      <option name="project" value="LOCAL" />
+      <updated>1728299287551</updated>
+    </task>
+    <task id="LOCAL-00236" summary="Add Peter's rotation">
+      <created>1730712666406</created>
+      <option name="number" value="00236" />
+      <option name="presentableId" value="LOCAL-00236" />
+      <option name="project" value="LOCAL" />
+      <updated>1730712666407</updated>
+    </task>
+    <option name="localTasksCounter" value="245" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.bib" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="HIGHLIGHTERS">
+                <map>
+                  <entry key="MY_COMMITS" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fixing broken workflows" />
+    <MESSAGE value="Trying to activate google verification" />
+    <MESSAGE value="Working on SEO" />
+    <MESSAGE value="Adding favicon.ico" />
+    <MESSAGE value="Adding Elena's talk at EPCP Young Scholars" />
+    <MESSAGE value="Adding BMIA news and group photo" />
+    <MESSAGE value="Testing classes in carousel" />
+    <MESSAGE value="Trying to add portrait into carousel" />
+    <MESSAGE value="Spring cleaning" />
+    <MESSAGE value="Formatting contact text" />
+    <MESSAGE value="Formatting contact info" />
+    <MESSAGE value="Adding Malachy" />
+    <MESSAGE value="Updating Malachy" />
+    <MESSAGE value="Updating bibliography" />
+    <MESSAGE value="Adding Rodrigo" />
+    <MESSAGE value="Forgot to add img path" />
+    <MESSAGE value="Add Rodrigo to AR project" />
+    <MESSAGE value="Add Peter's rotation" />
+    <MESSAGE value="Added darts group pic" />
+    <MESSAGE value="Added ice skating group pic" />
+    <MESSAGE value="New year announcements" />
+    <MESSAGE value="Overdue updates" />
+    <MESSAGE value="Fixing stuff" />
+    <MESSAGE value="Tristan and Malachy finished" />
+    <MESSAGE value="News" />
+    <option name="LAST_COMMIT_MESSAGE" value="News" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assets/img/group/imgProcess.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
