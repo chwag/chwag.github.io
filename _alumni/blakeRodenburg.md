@@ -8,7 +8,7 @@ img:
 importance: 1
 category: Master
 projects: [inference, ar]
-degree: BSc.
+degree: MSc.
 ---
 
 <div class="row">
