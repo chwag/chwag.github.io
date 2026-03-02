@@ -5,7 +5,7 @@ ratio = 1/1
 inverseRatio = 1/ratio
 size = (1024,1024)
 
-infiles = glob.glob('*.png') + glob.glob('*.jpg')
+infiles = glob.glob('*.png') + glob.glob('*.jpg') + glob.glob('*.jpeg')
 for infile in infiles:
     if "_cropped" not in infile:
         try:
