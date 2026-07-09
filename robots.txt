@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://biomedical-computation-group.github.io/bcg.github.io//sitemap.xml
+Sitemap: https://biomedical-computation-group.github.io/sitemap.xml
